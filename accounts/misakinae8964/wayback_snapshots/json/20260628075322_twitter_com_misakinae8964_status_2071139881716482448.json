@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2070835210716164524",
+    "created_at": "2026-06-28T07:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071139881716482448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056021582590644225",
+          "start": 0,
+          "username": "Astoria2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071139881716482448",
+    "in_reply_to_user_id": "2056021582590644225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071118480922046824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astoria2007 也可以用麦片实施"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2070835210716164524",
+        "created_at": "2026-06-28T07:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071139881716482448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056021582590644225",
+              "start": 0,
+              "username": "Astoria2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071139881716482448",
+        "in_reply_to_user_id": "2056021582590644225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071118480922046824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astoria2007 也可以用麦片实施"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056021582590644225",
+        "conversation_id": "2070835210716164524",
+        "created_at": "2026-06-28T06:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071118480922046824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071118480922046824",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070835210716164524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 差点以为是燕麦粥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 229,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T14:38:47.000Z",
+        "description": "The author of 《Internet Surfing》.",
+        "id": "2056021582590644225",
+        "name": "Astoria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056021698743586816/qYkFPGgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 33,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Astoria2007",
+        "verified": false
+      }
+    ]
+  }
+}

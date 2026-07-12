@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2073406738230051243",
+    "created_at": "2026-07-06T06:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074012197139984888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618196891887611906",
+          "start": 0,
+          "username": "kayoko_0619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074012197139984888",
+    "in_reply_to_user_id": "1618196891887611906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074010389357223992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kayoko_0619 对不起。。。因为上个月欠的钱太多所以都卖出去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2073406738230051243",
+        "created_at": "2026-07-06T06:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074012197139984888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618196891887611906",
+              "start": 0,
+              "username": "kayoko_0619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074012197139984888",
+        "in_reply_to_user_id": "1618196891887611906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074010389357223992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kayoko_0619 对不起。。。因为上个月欠的钱太多所以都卖出去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618196891887611906",
+        "conversation_id": "2073406738230051243",
+        "created_at": "2026-07-06T05:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074010389357223992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074010389357223992",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073406738230051243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 257,
+          "like_count": 2186,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T10:39:49.000Z",
+        "description": "",
+        "id": "1618196891887611906",
+        "name": "kayoko♪",
+        "pinned_tweet_id": "2064935702027247943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656986784062922752/QMtPLjjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 117,
+          "like_count": 2445,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "kayoko_0619",
+        "verified": false
+      }
+    ]
+  }
+}

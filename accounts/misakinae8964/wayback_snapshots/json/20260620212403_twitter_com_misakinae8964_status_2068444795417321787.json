@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2068200062069486057",
+    "created_at": "2026-06-20T21:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T22:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068444795417321787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068444795417321787",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068200062069486057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 今年三崎赢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2068200042196783104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO4-weWUAArFSA.jpg",
+        "width": 901
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2068200053022273536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO4_YzWMAA6XW5.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2068200062069486057",
+        "created_at": "2026-06-20T21:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068444795417321787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068444795417321787",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068200062069486057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 今年三崎赢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068200042196783104",
+            "3_2068200053022273536"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "conversation_id": "2068200062069486057",
+        "created_at": "2026-06-20T05:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068200062069486057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOGOAIDhLz",
+              "end": 129,
+              "expanded_url": "https://x.com/OverSpring_wiki/status/2068200062069486057/photo/1",
+              "media_key": "3_2068200042196783104",
+              "start": 106,
+              "url": "https://t.co/JOGOAIDhLz"
+            },
+            {
+              "display_url": "pic.x.com/JOGOAIDhLz",
+              "end": 129,
+              "expanded_url": "https://x.com/OverSpring_wiki/status/2068200062069486057/photo/1",
+              "media_key": "3_2068200053022273536",
+              "start": 106,
+              "url": "https://t.co/JOGOAIDhLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068200062069486057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2829,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今年16个新列管非药用精麻，8个芳基环己胺，2个依托咪酯类似物，剩下6个是卡西酮或者2C类，没有色胺/麦斯卡林衍生物\n另外「叔丁咪酯」依旧没有上榜，这个漏洞ROC台湾已经堵上了（台湾是直接规定「各种丁基咪酯」） https://t.co/JOGOAIDhLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2066565137948139942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 162,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4978,
+          "following_count": 1025,
+          "like_count": 34228,
+          "listed_count": 10,
+          "media_count": 530,
+          "tweet_count": 7735
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

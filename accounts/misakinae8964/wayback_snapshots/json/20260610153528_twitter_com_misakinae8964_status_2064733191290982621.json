@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2064704385117212806",
+    "created_at": "2026-06-10T15:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064733191290982621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 26,
+          "id": "1713520270198358016",
+          "start": 17,
+          "username": "D_D_ovO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064733191290982621",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064704385117212806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @D_D_ovO_ 哇哦，还有烧铝铜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2064704369921261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdNr2dagAAbRZm.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2064704385117212806",
+        "created_at": "2026-06-10T15:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064733191290982621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 26,
+              "id": "1713520270198358016",
+              "start": 17,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064733191290982621",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064704385117212806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @D_D_ovO_ 哇哦，还有烧铝铜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064704369921261568"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2064704385117212806",
+        "created_at": "2026-06-10T13:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064704385117212806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713520270198358016",
+              "start": 3,
+              "username": "D_D_ovO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F36oi02aef",
+              "end": 36,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2064704385117212806/photo/1",
+              "media_key": "3_2064704369921261568",
+              "start": 13,
+              "url": "https://t.co/F36oi02aef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704385117212806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是你吗@D_D_ovO_ https://t.co/F36oi02aef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖苯乙胺的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 101,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "祝你幸福｜职业婊子❤️@D_D_ovo_｜药物性冷淡患者｜一击脱离你妈死了｜肉棒免疫之人｜高中文学 穷蛆文学 前男友文学｜全体出动操你妈🦶｜转世灵童傀儡@anothervicooci｜v的妈妈们@misakinae8964 @rinko_zero8964｜支持互b如果你讨厌我的话｜喜欢我就找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "anothervicooci"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "树叶 海边 你的肩膀",
+        "name": "胃口呕呲呲呲呲！！",
+        "pinned_tweet_id": "2058637986905153762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4566,
+          "following_count": 395,
+          "like_count": 24654,
+          "listed_count": 19,
+          "media_count": 1346,
+          "tweet_count": 17005
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T11:40:55.000Z",
+        "description": "音楽＆アニメ＆料理&vico好き、ヨルシカ推し、ギター歴3年目→だから僕はギターを辞めた。「前世◂Ⓘ▸後書き」日本語/English/中文",
+        "id": "1713520270198358016",
+        "name": "DD🎸◂Ⓘ▸",
+        "pinned_tweet_id": "2064686597103333846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819675808186970112/urNf3mLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 529,
+          "like_count": 125462,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 15776
+        },
+        "username": "D_D_ovO_",
+        "verified": false
+      }
+    ]
+  }
+}

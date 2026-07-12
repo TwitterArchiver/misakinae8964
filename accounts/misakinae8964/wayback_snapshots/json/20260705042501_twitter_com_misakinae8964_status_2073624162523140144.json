@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062420753862242304",
+        "3_2062420753858154496",
+        "3_2062420753874833408"
+      ],
+      "media_source_tweet_id": [
+        "2062420765241471117",
+        "2062420765241471117",
+        "2062420765241471117"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "conversation_id": "2073624162523140144",
+    "created_at": "2026-07-05T04:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073624162523140144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "援交"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "线下"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "门槛姐"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "福利姬"
+        },
+        {
+          "end": 79,
+          "start": 77,
+          "tag": "m"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "brat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2061085349976432640",
+          "start": 3,
+          "username": "Arashiaka0224"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uu6qMqDReu",
+          "end": 109,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+          "media_key": "3_2062420753862242304",
+          "start": 86,
+          "url": "https://t.co/Uu6qMqDReu"
+        },
+        {
+          "display_url": "pic.x.com/Uu6qMqDReu",
+          "end": 109,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+          "media_key": "3_2062420753858154496",
+          "start": 86,
+          "url": "https://t.co/Uu6qMqDReu"
+        },
+        {
+          "display_url": "pic.x.com/Uu6qMqDReu",
+          "end": 109,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+          "media_key": "3_2062420753874833408",
+          "start": 86,
+          "url": "https://t.co/Uu6qMqDReu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073624162523140144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062420765241471117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arashiaka0224: 6.0了。。女孩子和前世互关找我互fo互转好不好🥺#爸爸活 #妈妈活 #援交 #线下 #门槛妹 #门槛姐 #福利姬 #m #brat https://t.co/Uu6qMqDReu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062420753862242304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8wv5taMAATE2G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062420753858154496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8wv5sb0AAUesT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1304,
+        "media_key": "3_2062420753874833408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8wv5waUAAOxTe.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062420753862242304",
+            "3_2062420753858154496",
+            "3_2062420753874833408"
+          ],
+          "media_source_tweet_id": [
+            "2062420765241471117",
+            "2062420765241471117",
+            "2062420765241471117"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "conversation_id": "2073624162523140144",
+        "created_at": "2026-07-05T04:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073624162523140144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "援交"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "线下"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "福利姬"
+            },
+            {
+              "end": 79,
+              "start": 77,
+              "tag": "m"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "brat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2061085349976432640",
+              "start": 3,
+              "username": "Arashiaka0224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 109,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753862242304",
+              "start": 86,
+              "url": "https://t.co/Uu6qMqDReu"
+            },
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 109,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753858154496",
+              "start": 86,
+              "url": "https://t.co/Uu6qMqDReu"
+            },
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 109,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753874833408",
+              "start": 86,
+              "url": "https://t.co/Uu6qMqDReu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624162523140144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062420765241471117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arashiaka0224: 6.0了。。女孩子和前世互关找我互fo互转好不好🥺#爸爸活 #妈妈活 #援交 #线下 #门槛妹 #门槛姐 #福利姬 #m #brat https://t.co/Uu6qMqDReu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062420753862242304",
+            "3_2062420753858154496",
+            "3_2062420753874833408"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2062420765241471117",
+        "created_at": "2026-06-04T06:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062420765241471117"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "援交"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "线下"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "福利姬"
+            },
+            {
+              "end": 60,
+              "start": 58,
+              "tag": "m"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "brat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 90,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753862242304",
+              "start": 67,
+              "url": "https://t.co/Uu6qMqDReu"
+            },
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 90,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753858154496",
+              "start": 67,
+              "url": "https://t.co/Uu6qMqDReu"
+            },
+            {
+              "display_url": "pic.x.com/Uu6qMqDReu",
+              "end": 90,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062420765241471117/photo/1",
+              "media_key": "3_2062420753874833408",
+              "start": 67,
+              "url": "https://t.co/Uu6qMqDReu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062420765241471117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4483,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "6.0了。。女孩子和前世互关找我互fo互转好不好🥺#爸爸活 #妈妈活 #援交 #线下 #门槛妹 #门槛姐 #福利姬 #m #brat https://t.co/Uu6qMqDReu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 252,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 104,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

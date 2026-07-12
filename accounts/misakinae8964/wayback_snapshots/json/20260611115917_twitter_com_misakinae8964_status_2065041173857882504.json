@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2064865367546368084",
+    "created_at": "2026-06-11T11:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065041173857882504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951668659052773376",
+          "start": 0,
+          "username": "tellM3Yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065041173857882504",
+    "in_reply_to_user_id": "1951668659052773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064865367546368084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tellM3Yy 普瑞真没这么难搞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2064865367546368084",
+        "created_at": "2026-06-11T11:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041173857882504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951668659052773376",
+              "start": 0,
+              "username": "tellM3Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041173857882504",
+        "in_reply_to_user_id": "1951668659052773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064865367546368084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tellM3Yy 普瑞真没这么难搞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951668659052773376",
+        "conversation_id": "2064865367546368084",
+        "created_at": "2026-06-11T00:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064865367546368084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064865367546368084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3347,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她们会不会抵制夏美我不知道，反正我觉得我会为了毒品和普瑞去卖逼，如果有人能给我提供源源不断的这两个东东的话😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖苯乙胺的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 109,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 98
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:37:35.000Z",
+        "description": "⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾",
+        "id": "1951668659052773376",
+        "name": "伤心苹果",
+        "pinned_tweet_id": "2025639459681874321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951668905598185472/jyyrcEYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 176,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 260
+        },
+        "username": "tellM3Yy",
+        "verified": false
+      }
+    ]
+  }
+}

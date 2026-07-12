@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2067522704857788872",
+    "created_at": "2026-06-19T14:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067977725617623078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067977725617623078",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067522704857788872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 那怎么做才能不浪费呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067257292282560513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBfjfXWgAElKqo.jpg",
+        "width": 2533
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2067257313874862081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBfkvzW4AEbFF8.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2067522704857788872",
+        "created_at": "2026-06-19T14:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067977725617623078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067977725617623078",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067522704857788872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 那怎么做才能不浪费呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067257292282560513",
+            "3_2067257313874862081"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2067522704857788872",
+        "created_at": "2026-06-18T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067522704857788872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dl0OR3TYsi",
+              "end": 167,
+              "expanded_url": "https://x.com/SalviaSWC/status/2067522704857788872/photo/1",
+              "media_key": "3_2067257292282560513",
+              "start": 144,
+              "url": "https://t.co/Dl0OR3TYsi"
+            },
+            {
+              "display_url": "pic.x.com/Dl0OR3TYsi",
+              "end": 167,
+              "expanded_url": "https://x.com/SalviaSWC/status/2067522704857788872/photo/1",
+              "media_key": "3_2067257313874862081",
+              "start": 144,
+              "url": "https://t.co/Dl0OR3TYsi"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2067160316878963188",
+              "start": 168,
+              "url": "https://t.co/7U3e70bFip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067522704857788872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3360,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067160316878963188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day37——笑气爆炸翻车事故\n\n作者和一群小伙伴们猛吸笑气，结果在吸的过程中，用于吸笑气的奶油发泡器突然爆炸，导致一人脸部受伤。\n\n大家处理高压气体的时候，一定要小心啊，这还不是对着嘴直接吸的......我听说有些推u是对着奶油发泡器直接吸的。千万补药这么做啊，既浪费又危险🥺 https://t.co/Dl0OR3TYsi https://t.co/7U3e70bFip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2066565137948139942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 155,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 1022,
+          "like_count": 24606,
+          "listed_count": 12,
+          "media_count": 556,
+          "tweet_count": 7925
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

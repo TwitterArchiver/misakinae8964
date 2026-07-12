@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2066861211720028649",
+    "created_at": "2026-06-17T17:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067296959363199176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568086718091501569",
+          "start": 0,
+          "username": "CPCHD8010"
+        },
+        {
+          "end": 25,
+          "id": "1837114188046684161",
+          "start": 11,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067296959363199176",
+    "in_reply_to_user_id": "1568086718091501569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285540291203304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPCHD8010 @winterfruit_1 要出来玩吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2066861211720028649",
+        "created_at": "2026-06-17T17:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067296959363199176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568086718091501569",
+              "start": 0,
+              "username": "CPCHD8010"
+            },
+            {
+              "end": 25,
+              "id": "1837114188046684161",
+              "start": 11,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067296959363199176",
+        "in_reply_to_user_id": "1568086718091501569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285540291203304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPCHD8010 @winterfruit_1 要出来玩吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568086718091501569",
+        "conversation_id": "2066861211720028649",
+        "created_at": "2026-06-17T16:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067285540291203304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            },
+            {
+              "end": 29,
+              "id": "1837114188046684161",
+              "start": 15,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067285540291203304",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067152284950446538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 @winterfruit_1 哈哈我在南昌哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 150,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 198
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T04:00:01.000Z",
+        "description": "-你好哇，叫我徐小貓就好！ -寂静是无声秋夜里的一场梦。＃这人o大了写的句子＃-再见，猫。＃被夺取的＃向内外表演的和精神病性的＃-再见，青春鸟！＃计划性的自暴自虐＃角色创建中……/二五年末再编：或许胡乱过了一年，逃离要加速了。",
+        "id": "1568086718091501569",
+        "location": "电脑儿童康复中心",
+        "name": "超級市民_虛世明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026702984898555907/0Og4CH-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 560,
+          "like_count": 3579,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1065
+        },
+        "username": "CPCHD8010",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2630,
+          "following_count": 1471,
+          "like_count": 42951,
+          "listed_count": 6,
+          "media_count": 1864,
+          "tweet_count": 12782
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2067900707785879935",
+    "created_at": "2026-06-19T14:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067979249043345713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747041934332592128",
+          "start": 0,
+          "username": "kiqi900517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067979249043345713",
+    "in_reply_to_user_id": "1747041934332592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067900707785879935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiqi900517 好厉害，我也喜欢去南京玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1646,
+        "media_key": "3_2067900696410918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKouihbEAA2iae.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2067900707785879935",
+        "created_at": "2026-06-19T14:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067979249043345713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747041934332592128",
+              "start": 0,
+              "username": "kiqi900517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067979249043345713",
+        "in_reply_to_user_id": "1747041934332592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067900707785879935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiqi900517 好厉害，我也喜欢去南京玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067900696410918912"
+          ]
+        },
+        "author_id": "1747041934332592128",
+        "conversation_id": "2067900707785879935",
+        "created_at": "2026-06-19T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900707785879935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nA1cZXiOsf",
+              "end": 54,
+              "expanded_url": "https://x.com/kiqi900517/status/2067900707785879935/photo/1",
+              "media_key": "3_2067900696410918912",
+              "start": 31,
+              "url": "https://t.co/nA1cZXiOsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900707785879935",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 59959,
+          "like_count": 1668,
+          "quote_count": 51,
+          "reply_count": 146,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "저 난징대 합격했어요🥹🥹  응원해주셔서 정말 감사합니다 https://t.co/nA1cZXiOsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2066565137948139942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 156,
+          "like_count": 1273,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T23:44:01.000Z",
+        "description": "去见发光的你✨️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/kiqi0517",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/kiqi0517",
+                "start": 0,
+                "url": "https://t.co/7lj64z9x5v"
+              }
+            ]
+          }
+        },
+        "id": "1747041934332592128",
+        "location": "成毅 +@",
+        "name": "키치🥝",
+        "pinned_tweet_id": "1989339533692039383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801558350423040000/fZvu8gNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 153,
+          "like_count": 1833,
+          "listed_count": 3,
+          "media_count": 1942,
+          "tweet_count": 5362
+        },
+        "url": "https://t.co/7lj64z9x5v",
+        "username": "kiqi900517",
+        "verified": false
+      }
+    ]
+  }
+}

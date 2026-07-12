@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2074570940160393562",
+    "created_at": "2026-07-07T21:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074612531294048754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074612531294048754",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074570940160393562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 邪教折磨的不是教徒本身而是他们的家人。。。唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2074570837295050752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpbL1pbMAAlpSR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2074570847923425280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpbMdPbUAALQkP.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 70200,
+        "height": 1284,
+        "media_key": "13_2074570860502147072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074570860502147072/img/4kmFD8zwbe10X3gM.jpg",
+        "public_metrics": {
+          "view_count": 378
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570860502147072/vid/avc1/320x570/gSUI-PRV0QlXbo6y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570860502147072/vid/avc1/480x856/RzQ9FqsKIfgJ4YwL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074570860502147072/vid/avc1/720x1284/OjdcB8hpnDvnBMAB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074570860502147072/pl/4sfpoHFVITqFcXFn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2074570940160393562",
+        "created_at": "2026-07-07T21:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074612531294048754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074612531294048754",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074570940160393562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 邪教折磨的不是教徒本身而是他们的家人。。。唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074570837295050752",
+            "3_2074570847923425280",
+            "13_2074570860502147072"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2074570940160393562",
+        "created_at": "2026-07-07T19:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:51:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074566958654316930",
+          "2074570940160393562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2hSsFTQd5",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2074570940160393562/video/1",
+              "media_key": "3_2074570837295050752",
+              "start": 154,
+              "url": "https://t.co/E2hSsFTQd5"
+            },
+            {
+              "display_url": "pic.x.com/E2hSsFTQd5",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2074570940160393562/video/1",
+              "media_key": "3_2074570847923425280",
+              "start": 154,
+              "url": "https://t.co/E2hSsFTQd5"
+            },
+            {
+              "display_url": "pic.x.com/E2hSsFTQd5",
+              "end": 177,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2074570940160393562/video/1",
+              "media_key": "13_2074570860502147072",
+              "start": 154,
+              "url": "https://t.co/E2hSsFTQd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074570940160393562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 934,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "又有BOSS亮血条了\n本次曝光以及作战对象为\n邪教头目+传销头目\n“赖泽平”他犯下北海特大传销案，\n使无数家庭支离破碎其信徒高达3335人，敛财千万\n出狱后改名“赖泽明”\n摇身一变成了所谓著名教育专家\n国学专家发展“如是中庸”学说\n\n打造“如是书院”类封闭培训场所，复刻传销+邪教式精神控制线上高价卖课套路 https://t.co/E2hSsFTQd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 261,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6237,
+          "following_count": 3322,
+          "like_count": 3745,
+          "listed_count": 19,
+          "media_count": 492,
+          "tweet_count": 3369
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

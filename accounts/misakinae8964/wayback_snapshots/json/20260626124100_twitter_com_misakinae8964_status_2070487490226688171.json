@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2070337740009595326",
+    "created_at": "2026-06-26T12:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070487490226688171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1596206243303284737",
+          "start": 0,
+          "username": "iing9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070487490226688171",
+    "in_reply_to_user_id": "1596206243303284737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070337740009595326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iing9u 也许我会见到你，我在那里上课，南京大学挺好的，希望你也喜欢，包括南京的气候也很好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070337734582169600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtRM1LbcAA5-hV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2070337740009595326",
+        "created_at": "2026-06-26T12:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070487490226688171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1596206243303284737",
+              "start": 0,
+              "username": "iing9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070487490226688171",
+        "in_reply_to_user_id": "1596206243303284737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070337740009595326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iing9u 也许我会见到你，我在那里上课，南京大学挺好的，希望你也喜欢，包括南京的气候也很好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070337734582169600"
+          ]
+        },
+        "author_id": "1596206243303284737",
+        "conversation_id": "2070337740009595326",
+        "created_at": "2026-06-26T02:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070337740009595326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l96aLrdyTZ",
+              "end": 135,
+              "expanded_url": "https://x.com/iing9u/status/2070337740009595326/photo/1",
+              "media_key": "3_2070337734582169600",
+              "start": 112,
+              "url": "https://t.co/l96aLrdyTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070337740009595326",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 180158,
+          "like_count": 3288,
+          "quote_count": 131,
+          "reply_count": 320,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "제가 이번에 난징대에 합격해서 8월에 난징으로 떠납니다🥹 단건차 때문에 선택한 중국 유학이엇고 목표 대학이었던 난징대에 붙어서 이 계정에선 꼭 한 번 말하구 싶엇습니다\nthanks to 건차 🙇🏻🙇🏻 https://t.co/l96aLrdyTZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 209,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T18:16:45.000Z",
+        "description": "#檀健次 우리 하루종일 #단건차 얘기만 하자",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "檀健次"
+              },
+              {
+                "end": 17,
+                "start": 13,
+                "tag": "단건차"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/iing9u",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/iing9u",
+                "start": 0,
+                "url": "https://t.co/PMKIBJE5em"
+              }
+            ]
+          }
+        },
+        "id": "1596206243303284737",
+        "location": "谈什么不如檀健次",
+        "name": "잉",
+        "pinned_tweet_id": "1796499583461474454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907101545860415488/NfPbHdT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 85,
+          "like_count": 9598,
+          "listed_count": 7,
+          "media_count": 4076,
+          "tweet_count": 15710
+        },
+        "url": "https://t.co/PMKIBJE5em",
+        "username": "iing9u",
+        "verified": false
+      }
+    ]
+  }
+}

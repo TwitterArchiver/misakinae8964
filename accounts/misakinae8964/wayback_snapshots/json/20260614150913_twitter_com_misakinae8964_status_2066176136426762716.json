@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2065793635225141254",
+    "created_at": "2026-06-14T15:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066176136426762716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1572217722876080129",
+          "start": 0,
+          "username": "KurokawaRirika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066176136426762716",
+    "in_reply_to_user_id": "1572217722876080129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065793635225141254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KurokawaRirika 这怎么压"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2065793635225141254",
+        "created_at": "2026-06-14T15:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066176136426762716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1572217722876080129",
+              "start": 0,
+              "username": "KurokawaRirika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066176136426762716",
+        "in_reply_to_user_id": "1572217722876080129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065793635225141254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KurokawaRirika 这怎么压"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572217722876080129",
+        "conversation_id": "2065793635225141254",
+        "created_at": "2026-06-13T13:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065793635225141254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065793635225141254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在中国卖淫都要被压价吗？！这不是非法的事吗？利润不该是最高的吗？啥时候能把毒的价格也给我压下来，黄赌毒不分家，黄被压价毒也该压"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖苯乙胺的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 127,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 139
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T13:37:37.000Z",
+        "description": "我是黒川りりか可以叫我莉莉\n🚪🍎门槛188-1314上不封顶👽🫶\n💉同时有医美啵啵替西等业务～可咨询💉\n中文ok 日本語を勉強中なの Still picking up English\n广州/165g54kg/血图/自拍/废话/餐券妹欢迎互转互fo！",
+        "id": "1572217722876080129",
+        "location": "天国",
+        "name": "Ririka💀💋",
+        "pinned_tweet_id": "2064480579840803220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057315255215345664/SZblubwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 159,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 427
+        },
+        "username": "KurokawaRirika",
+        "verified": false
+      }
+    ]
+  }
+}

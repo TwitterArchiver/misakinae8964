@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2072286036450017765",
+    "created_at": "2026-07-02T11:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072637122851561960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889401541142126592",
+          "start": 0,
+          "username": "smilinpusi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072637122851561960",
+    "in_reply_to_user_id": "1889401541142126592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072536440492429443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smilinpusi 遣返回泰国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2072286036450017765",
+        "created_at": "2026-07-02T11:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072637122851561960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889401541142126592",
+              "start": 0,
+              "username": "smilinpusi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072637122851561960",
+        "in_reply_to_user_id": "1889401541142126592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072536440492429443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smilinpusi 遣返回泰国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889401541142126592",
+        "conversation_id": "2072286036450017765",
+        "created_at": "2026-07-02T04:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072536440492429443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072536440492429443",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072286036450017765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 卧槽我觉得特别香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 245,
+          "like_count": 1972,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T19:50:27.000Z",
+        "description": "@rato",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "rato"
+              }
+            ]
+          }
+        },
+        "id": "1889401541142126592",
+        "name": "xX_鼠_Xx",
+        "pinned_tweet_id": "1908247433420612030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908245044542529536/gcva1XYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 206,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "smilinpusi",
+        "verified": false
+      }
+    ]
+  }
+}

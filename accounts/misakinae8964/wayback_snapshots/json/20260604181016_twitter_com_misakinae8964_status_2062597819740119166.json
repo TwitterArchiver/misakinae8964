@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2062426264838033543",
+    "created_at": "2026-06-04T18:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062597819740119166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984768742145081345",
+          "start": 0,
+          "username": "Orange0755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062597819740119166",
+    "in_reply_to_user_id": "1984768742145081345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062426264838033543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orange0755 原来全世界的人都经历着同样的事情，我也有一个朋友因为od进医院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062426260928909312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ81wdIa0AAwHBT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062426260966674432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ81wdRbEAAV_ox.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2062426264838033543",
+        "created_at": "2026-06-04T18:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062597819740119166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984768742145081345",
+              "start": 0,
+              "username": "Orange0755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062597819740119166",
+        "in_reply_to_user_id": "1984768742145081345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062426264838033543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange0755 原来全世界的人都经历着同样的事情，我也有一个朋友因为od进医院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062426260928909312",
+            "3_2062426260966674432"
+          ]
+        },
+        "author_id": "1984768742145081345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2062426264838033543",
+        "created_at": "2026-06-04T06:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062426264838033543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUyToid14I",
+              "end": 166,
+              "expanded_url": "https://x.com/Orange0755/status/2062426264838033543/photo/1",
+              "media_key": "3_2062426260928909312",
+              "start": 143,
+              "url": "https://t.co/kUyToid14I"
+            },
+            {
+              "display_url": "pic.x.com/kUyToid14I",
+              "end": 166,
+              "expanded_url": "https://x.com/Orange0755/status/2062426264838033543/photo/1",
+              "media_key": "3_2062426260966674432",
+              "start": 143,
+              "url": "https://t.co/kUyToid14I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062426264838033543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 283685,
+          "like_count": 783,
+          "quote_count": 53,
+          "reply_count": 23,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "炭酸リチウム1.6万ミリ飲んだあの日、目覚めて、管に繋がれててやっと、生きてるんだ自分、これから頑張らなきゃって思ったの。\n\nでもまた死にたくなる\n\n同じことしたくなる\n\nどうして同じこと繰り返しちゃうのかな。\n\n私生きてて楽しいって思ったこと沢山あって、まだまだ楽しいことしたいのに https://t.co/kUyToid14I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，私信我解锁化学物质",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 67,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T23:45:29.000Z",
+        "description": "ルナです。私が私に殺されませんように、ただそれだけ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/ja/orange0755",
+                "end": 23,
+                "expanded_url": "https://peing.net/ja/orange0755",
+                "start": 0,
+                "url": "https://t.co/0FYVaWxhdi"
+              }
+            ]
+          }
+        },
+        "id": "1984768742145081345",
+        "location": "質問箱▶︎",
+        "name": "ルナ",
+        "pinned_tweet_id": "2062430471796252770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984775796989575172/HSSuwXD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 58,
+          "like_count": 1297,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/0FYVaWxhdi",
+        "username": "Orange0755",
+        "verified": false
+      }
+    ]
+  }
+}

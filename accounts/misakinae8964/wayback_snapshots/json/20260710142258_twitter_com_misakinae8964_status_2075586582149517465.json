@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2075574460854440321",
+    "created_at": "2026-07-10T14:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075586582149517465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973373506609094666",
+          "start": 0,
+          "username": "aixgyn8448168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075586582149517465",
+    "in_reply_to_user_id": "1973373506609094666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075574460854440321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aixgyn8448168 好好玩耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4133,
+        "height": 1920,
+        "media_key": "13_2075574395746275328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075574395746275328/img/KMrlMEU3yISuvAgr.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075574395746275328/vid/avc1/480x852/4LQupF9fobK0-lc6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075574395746275328/pl/8daaV6a13MSfWTwE.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075574395746275328/vid/avc1/1080x1920/Q3yLdMNASnMebH6w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075574395746275328/vid/avc1/720x1280/sFP3R_mKUGVV0kAG.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075574395746275328/vid/avc1/320x568/bl-IWbnjHh3wzRUY.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2075574460854440321",
+        "created_at": "2026-07-10T14:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075586582149517465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973373506609094666",
+              "start": 0,
+              "username": "aixgyn8448168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075586582149517465",
+        "in_reply_to_user_id": "1973373506609094666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075574460854440321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aixgyn8448168 好好玩耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075574395746275328"
+          ]
+        },
+        "author_id": "1973373506609094666",
+        "conversation_id": "2075574460854440321",
+        "created_at": "2026-07-10T13:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075574460854440321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/900bRLKXg9",
+              "end": 30,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2075574460854440321/video/1",
+              "media_key": "13_2075574395746275328",
+              "start": 7,
+              "url": "https://t.co/900bRLKXg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075574460854440321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滴蜡初体验🥺 https://t.co/900bRLKXg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 277,
+          "like_count": 2503,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:05:40.000Z",
+        "description": "06 /女 /身高 170➕/ \n🚪77/🚪188 黑龙江/药物滥用/立场右上/友跨 /ADHD/炸号ing",
+        "id": "1973373506609094666",
+        "location": "只回🚪",
+        "name": "深深",
+        "pinned_tweet_id": "2019421895217803501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020475886295015424/BIL3BED1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 133,
+          "like_count": 1624,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "aixgyn8448168",
+        "verified": true
+      }
+    ]
+  }
+}

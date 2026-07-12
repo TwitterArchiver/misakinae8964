@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2062494518801514607",
+    "created_at": "2026-06-04T18:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062597443578196151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971735483626749952",
+          "start": 0,
+          "username": "zzzkkkeee23345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062597443578196151",
+    "in_reply_to_user_id": "1971735483626749952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062494518801514607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzkkkeee23345 还真不会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_2062494511356608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9z1JyagAAiNF5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2062494518801514607",
+        "created_at": "2026-06-04T18:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062597443578196151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971735483626749952",
+              "start": 0,
+              "username": "zzzkkkeee23345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062597443578196151",
+        "in_reply_to_user_id": "1971735483626749952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062494518801514607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzkkkeee23345 还真不会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062494511356608512"
+          ]
+        },
+        "author_id": "1971735483626749952",
+        "conversation_id": "2062494518801514607",
+        "created_at": "2026-06-04T11:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062494518801514607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdMJdD8ZR4",
+              "end": 32,
+              "expanded_url": "https://x.com/zzzkkkeee23345/status/2062494518801514607/photo/1",
+              "media_key": "3_2062494511356608512",
+              "start": 9,
+              "url": "https://t.co/hdMJdD8ZR4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062494518801514607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 20277,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经退化成废物了 https://t.co/hdMJdD8ZR4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，私信我解锁化学物质",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 66,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T00:36:05.000Z",
+        "description": "希望能给你带来快乐 | 籍籍无名的梗图集散中心 | 下午才睡醒 | ´ₒ⦁⩊⦁ₒ`  | 糕知天下事 | 默认蓝v回fo",
+        "id": "1971735483626749952",
+        "location": "333",
+        "name": "糟糕糕🍰",
+        "pinned_tweet_id": "2062196855568761283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059624780270313472/ZELmCaYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 84,
+          "like_count": 42,
+          "listed_count": 4,
+          "media_count": 38,
+          "tweet_count": 55
+        },
+        "username": "zzzkkkeee23345",
+        "verified": true
+      }
+    ]
+  }
+}

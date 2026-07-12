@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2073630252266627432",
+    "created_at": "2026-07-05T15:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073791960452854061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045505177613205504",
+          "start": 0,
+          "username": "Neoqz6l2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073791960452854061",
+    "in_reply_to_user_id": "2045505177613205504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073630252266627432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neoqz6l2 用的什么理由呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2073630238614192129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcDtygbgAEadI8.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2073630252266627432",
+        "created_at": "2026-07-05T15:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073791960452854061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045505177613205504",
+              "start": 0,
+              "username": "Neoqz6l2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073791960452854061",
+        "in_reply_to_user_id": "2045505177613205504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073630252266627432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neoqz6l2 用的什么理由呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073630238614192129"
+          ]
+        },
+        "author_id": "2045505177613205504",
+        "conversation_id": "2073630252266627432",
+        "created_at": "2026-07-05T04:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073630252266627432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TO335yAhAv",
+              "end": 38,
+              "expanded_url": "https://x.com/Neoqz6l2/status/2073630252266627432/photo/1",
+              "media_key": "3_2073630238614192129",
+              "start": 15,
+              "url": "https://t.co/TO335yAhAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073630252266627432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2158,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生一下给我开了七盒普瑞巴林 https://t.co/TO335yAhAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 252,
+          "like_count": 2151,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:11:47.000Z",
+        "description": "",
+        "id": "2045505177613205504",
+        "name": "米娅亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055981130579619842/J20FghTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 67,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Neoqz6l2",
+        "verified": false
+      }
+    ]
+  }
+}

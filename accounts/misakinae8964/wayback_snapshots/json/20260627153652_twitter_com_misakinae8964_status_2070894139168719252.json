@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2070882256936194346",
+    "created_at": "2026-06-27T15:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070894139168719252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "479550032",
+          "start": 0,
+          "username": "glenntout20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070894139168719252",
+    "in_reply_to_user_id": "479550032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070893998827569179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@glenntout20 也许可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2070882256936194346",
+        "created_at": "2026-06-27T15:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070894139168719252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "479550032",
+              "start": 0,
+              "username": "glenntout20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070894139168719252",
+        "in_reply_to_user_id": "479550032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070893998827569179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@glenntout20 也许可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "479550032",
+        "conversation_id": "2070882256936194346",
+        "created_at": "2026-06-27T15:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070893998827569179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070893998827569179",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070882256936194346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 想看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 225,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-31T14:13:18.000Z",
+        "description": "这里是可爱的美少女玲子\n😢😢😢😢😢\n🚪88/128/198可线下\ntg:https://t.co/DO3WT5j9dB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+N0ETo5akc84yO…",
+                "end": 59,
+                "expanded_url": "https://t.me/+N0ETo5akc84yOWI1",
+                "start": 36,
+                "url": "https://t.co/DO3WT5j9dB"
+              }
+            ]
+          }
+        },
+        "id": "479550032",
+        "name": "伟大的五世伊芙玲伯爵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063964532402524161/XBoTmOda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 11,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "glenntout20",
+        "verified": false
+      }
+    ]
+  }
+}

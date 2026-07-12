@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2062475829293314465",
+    "created_at": "2026-06-05T08:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062810115598659610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859245555622567936",
+          "start": 0,
+          "username": "oyasumi___happy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062810115598659610",
+    "in_reply_to_user_id": "1859245555622567936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062475829293314465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oyasumi___happy 超级酷啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1908,
+        "media_key": "3_2062475823760973824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9i1ZEaoAAc9Oj.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1945,
+        "media_key": "3_2062475823756775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9i1ZDakAAEcka.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2062475829293314465",
+        "created_at": "2026-06-05T08:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062810115598659610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859245555622567936",
+              "start": 0,
+              "username": "oyasumi___happy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062810115598659610",
+        "in_reply_to_user_id": "1859245555622567936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062475829293314465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oyasumi___happy 超级酷啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062475823760973824",
+            "3_2062475823756775424"
+          ]
+        },
+        "author_id": "1859245555622567936",
+        "conversation_id": "2062475829293314465",
+        "created_at": "2026-06-04T10:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062475829293314465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZU181ug3o",
+              "end": 40,
+              "expanded_url": "https://x.com/oyasumi___happy/status/2062475829293314465/photo/1",
+              "media_key": "3_2062475823760973824",
+              "start": 17,
+              "url": "https://t.co/gZU181ug3o"
+            },
+            {
+              "display_url": "pic.x.com/gZU181ug3o",
+              "end": 40,
+              "expanded_url": "https://x.com/oyasumi___happy/status/2062475829293314465/photo/1",
+              "media_key": "3_2062475823756775424",
+              "start": 17,
+              "url": "https://t.co/gZU181ug3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062475829293314465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1994,
+          "impression_count": 787854,
+          "like_count": 15421,
+          "quote_count": 405,
+          "reply_count": 42,
+          "retweet_count": 1070
+        },
+        "reply_settings": "everyone",
+        "text": "これドライヤーってやばくない!? https://t.co/gZU181ug3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，私信我解锁化学物质",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 68,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 37
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T14:41:07.000Z",
+        "description": "アパレル勤務です🫧韓国のお洋服とかコスメとか好きなもの",
+        "id": "1859245555622567936",
+        "location": "日本 東京",
+        "name": "oyasumi/お洋服と好きなもの",
+        "pinned_tweet_id": "2021078966845730929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883105373282021376/rg3DITjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8116,
+          "following_count": 144,
+          "like_count": 2344,
+          "listed_count": 38,
+          "media_count": 654,
+          "tweet_count": 850
+        },
+        "username": "oyasumi___happy",
+        "verified": true
+      }
+    ]
+  }
+}

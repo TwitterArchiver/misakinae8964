@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2059125852248715360",
+    "created_at": "2026-06-10T12:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064679121314254975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064679121314254975",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059125852248715360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 哇哦，还有导师的自我批判"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2059125841687433216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN8CxWbUAAYaYR.jpg",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2059125852248715360",
+        "created_at": "2026-06-10T12:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064679121314254975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064679121314254975",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059125852248715360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 哇哦，还有导师的自我批判"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059125841687433216"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "2059125852248715360",
+        "created_at": "2026-05-26T04:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059125852248715360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xk0rkcvyRH",
+              "end": 164,
+              "expanded_url": "https://x.com/Overdose_DBD/status/2059125852248715360/photo/1",
+              "media_key": "3_2059125841687433216",
+              "start": 141,
+              "url": "https://t.co/Xk0rkcvyRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059125852248715360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1780,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高原之猫向你致敬\n人员们，我将要翻新出一些论述，还有要等很久。但于此之前，那旧理论仍在阻碍着许多事。2026.06.10，我得彻底推翻我的旧理论，并自我批评诸多错误：苏镁科学家与反解离理论的实践——这两是错误的，各位别信了，快快推翻\n届时彻底公布于贴子与聊天语音。我们下个路口相聚 https://t.co/Xk0rkcvyRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖苯乙胺的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 100,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 85
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "高原整活观景台 https://t.co/ALu7jA4oBj\n有事请点击https://t.co/VRpZNWqcKT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 31,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 8,
+                "url": "https://t.co/ALu7jA4oBj"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 60,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 37,
+                "url": "https://t.co/VRpZNWqcKT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 68,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 733,
+          "tweet_count": 7204
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

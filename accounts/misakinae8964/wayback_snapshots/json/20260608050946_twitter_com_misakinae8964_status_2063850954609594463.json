@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2063626868041871527",
+    "created_at": "2026-06-08T05:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063850954609594463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1635337273364414465",
+          "start": 0,
+          "username": "fairyprxncess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063850954609594463",
+    "in_reply_to_user_id": "1635337273364414465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063626868041871527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fairyprxncess 哇哦，不得不说这些真的好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2063626862534770688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN5sqpWwAAlIJH.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2063626868041871527",
+        "created_at": "2026-06-08T05:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063850954609594463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1635337273364414465",
+              "start": 0,
+              "username": "fairyprxncess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063850954609594463",
+        "in_reply_to_user_id": "1635337273364414465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063626868041871527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fairyprxncess 哇哦，不得不说这些真的好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063626862534770688"
+          ]
+        },
+        "author_id": "1635337273364414465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063626868041871527",
+        "created_at": "2026-06-07T14:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063626868041871527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1U87TLrpX",
+              "end": 56,
+              "expanded_url": "https://x.com/fairyprxncess/status/2063626868041871527/photo/1",
+              "media_key": "3_2063626862534770688",
+              "start": 33,
+              "url": "https://t.co/w1U87TLrpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063626868041871527",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 174907,
+          "like_count": 2794,
+          "quote_count": 840,
+          "reply_count": 316,
+          "retweet_count": 355
+        },
+        "reply_settings": "everyone",
+        "text": "Which dumpling is your favorite? https://t.co/w1U87TLrpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，私信我解锁化学物质",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 77,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 61
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-13T17:49:44.000Z",
+        "description": "just a fairy princess • 💌 for promo",
+        "id": "1635337273364414465",
+        "location": "image not mine ",
+        "name": "𓆩♡𓆪",
+        "pinned_tweet_id": "2063720318535889247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791545486530236416/eLVxVt9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154475,
+          "following_count": 34,
+          "like_count": 4734,
+          "listed_count": 464,
+          "media_count": 3222,
+          "tweet_count": 6292
+        },
+        "username": "fairyprxncess",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2063777378019823634",
+    "created_at": "2026-06-10T04:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064566134486216750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568086718091501569",
+          "start": 0,
+          "username": "CPCHD8010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064566134486216750",
+    "in_reply_to_user_id": "1568086718091501569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064419892028391906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPCHD8010 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2063777378019823634",
+        "created_at": "2026-06-10T04:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064566134486216750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568086718091501569",
+              "start": 0,
+              "username": "CPCHD8010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064566134486216750",
+        "in_reply_to_user_id": "1568086718091501569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064419892028391906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPCHD8010 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568086718091501569",
+        "conversation_id": "2063777378019823634",
+        "created_at": "2026-06-09T18:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064419892028391906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064419892028391906",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063777378019823634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 如闪电般归来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，私信我解锁化学物质",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 94,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T04:00:01.000Z",
+        "description": "-你好哇，叫我徐小貓就好！ -寂静是无声秋夜里的一场梦。＃这人o大了写的句子＃-再见，猫。＃被夺取的＃向内外表演的和精神病性的＃-再见，青春鸟！＃计划性的自暴自虐＃角色创建中……/二五年末再编：或许胡乱过了一年，逃离要加速了。",
+        "id": "1568086718091501569",
+        "location": "电脑儿童康复中心",
+        "name": "超級市民_虛世明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026702984898555907/0Og4CH-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 559,
+          "like_count": 3587,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1061
+        },
+        "username": "CPCHD8010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2073630252266627432",
+    "created_at": "2026-07-05T19:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073849529691169233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045505177613205504",
+          "start": 0,
+          "username": "Neoqz6l2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073849529691169233",
+    "in_reply_to_user_id": "2045505177613205504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073840335126765731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neoqz6l2 酱紫呀，那该怎么说自己有神经痛呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2073630252266627432",
+        "created_at": "2026-07-05T19:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073849529691169233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045505177613205504",
+              "start": 0,
+              "username": "Neoqz6l2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073849529691169233",
+        "in_reply_to_user_id": "2045505177613205504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073840335126765731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neoqz6l2 酱紫呀，那该怎么说自己有神经痛呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045505177613205504",
+        "conversation_id": "2073630252266627432",
+        "created_at": "2026-07-05T18:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073840335126765731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073840335126765731",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073791960452854061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 军训短期内不能出来开药加上运动会导致神经痛发作，医生就给我开了很多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 257,
+          "like_count": 2177,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:11:47.000Z",
+        "description": "",
+        "id": "2045505177613205504",
+        "name": "米娅亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055981130579619842/J20FghTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 67,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "Neoqz6l2",
+        "verified": false
+      }
+    ]
+  }
+}

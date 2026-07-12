@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2075143771671716302",
+    "created_at": "2026-07-09T10:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075172548136808658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897901287834107905",
+          "start": 0,
+          "username": "GrfbB22556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075172548136808658",
+    "in_reply_to_user_id": "1897901287834107905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075158999365009728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrfbB22556 对，东方宗教总是企图一开始就去理解真理，而基督教先是把真理物化成为上帝，通过自己和上帝来一点点摸索万物的道理，于是他们明白的道理越多越逼近真理乃至上帝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2075143771671716302",
+        "created_at": "2026-07-09T10:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075172548136808658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897901287834107905",
+              "start": 0,
+              "username": "GrfbB22556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075172548136808658",
+        "in_reply_to_user_id": "1897901287834107905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075158999365009728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrfbB22556 对，东方宗教总是企图一开始就去理解真理，而基督教先是把真理物化成为上帝，通过自己和上帝来一点点摸索万物的道理，于是他们明白的道理越多越逼近真理乃至上帝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897901287834107905",
+        "conversation_id": "2075143771671716302",
+        "created_at": "2026-07-09T10:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075158999365009728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075158999365009728",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143771671716302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 其它宗教总讲肉身成道，但基督教非常创造性地讲了道成肉身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 265,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:45:12.000Z",
+        "description": "精神边缘人 堪堪废料堆 求得真道理 配作假慈悲",
+        "id": "1897901287834107905",
+        "name": "边缘废料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025686705991495680/iHqitj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 151,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "GrfbB22556",
+        "verified": false
+      }
+    ]
+  }
+}

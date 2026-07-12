@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2068306438724981070",
+    "created_at": "2026-06-20T21:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T22:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068443564812771383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 26,
+          "id": "1713520270198358016",
+          "start": 17,
+          "username": "D_D_ovO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068443564812771383",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068306438724981070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @D_D_ovO_ 我们来组乐队吧 这个我想听"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2068306428742574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQZvRPboAAQf6Z.jpg",
+        "width": 750
+      },
+      {
+        "height": 908,
+        "media_key": "3_2068306428750917632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQZvRRa8AAdIG5.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2068306438724981070",
+        "created_at": "2026-06-20T21:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068443564812771383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 26,
+              "id": "1713520270198358016",
+              "start": 17,
+              "username": "D_D_ovO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068443564812771383",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068306438724981070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @D_D_ovO_ 我们来组乐队吧 这个我想听"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068306428742574080",
+            "3_2068306428750917632"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068306438724981070",
+        "created_at": "2026-06-20T12:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068306438724981070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713520270198358016",
+              "start": 3,
+              "username": "D_D_ovO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1tCHyWEE4",
+              "end": 88,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2068306438724981070/photo/1",
+              "media_key": "3_2068306428742574080",
+              "start": 65,
+              "url": "https://t.co/I1tCHyWEE4"
+            },
+            {
+              "display_url": "pic.x.com/I1tCHyWEE4",
+              "end": 88,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2068306438724981070/photo/1",
+              "media_key": "3_2068306428750917632",
+              "start": 65,
+              "url": "https://t.co/I1tCHyWEE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068306438724981070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个逼@D_D_ovO_ 真写了《香草vico之歌》 甚至还标了吉他弦，我看到歌词第一反应是爱vtv有谁懂的？？dvd来了666 https://t.co/I1tCHyWEE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2066565137948139942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 162,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "当我感到最幸福时我会把五颗星星都涂满★ ★ ★ ★ ☆ ｜老婆❤️@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 84,
+                "start": 70,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "胃口今天又忘了实践dvd",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620,
+          "following_count": 396,
+          "like_count": 24771,
+          "listed_count": 19,
+          "media_count": 1388,
+          "tweet_count": 17592
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T11:40:55.000Z",
+        "description": "音楽＆アニメ＆料理&ヨルシカ好き、「@vicoOci_Olvidar だけが僕の音楽なんだ」、ギター歴3年目→だから僕はギターを辞めた。「前世◂Ⓘ▸後書き」日本語/English/中文",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1713520270198358016",
+        "name": "DD🎸◂Ⓘ▸",
+        "pinned_tweet_id": "2064686597103333846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819675808186970112/urNf3mLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 538,
+          "like_count": 126531,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 15906
+        },
+        "url": "",
+        "username": "D_D_ovO_",
+        "verified": false
+      }
+    ]
+  }
+}
