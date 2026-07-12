@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T09:29:15",
+  "last_updated": "2026-07-12T09:29:47",
   "html": {
     "https://web.archive.org/web/20260601113640if_/https://twitter.com/misakinae8964/status/2061411604072452329": {
       "status": "done",
@@ -3623,9 +3623,9 @@
       "referenced_by": [
         "20260601120004_twitter_com_misakinae8964_status_2061417495807054302.json"
       ],
-      "last_updated": "2026-07-12T09:04:30",
+      "last_updated": "2026-07-12T09:29:32",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260601120004if_/https://pbs.twimg.com/profile_images/2058024983323111424/BD7ezTVu_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1955227702526611456/vnRNoBqn_normal.jpg": {
       "status": "done",
@@ -3703,9 +3703,9 @@
       "referenced_by": [
         "20260605081207_twitter_com_misakinae8964_status_2062809677872738642.json"
       ],
-      "last_updated": "2026-07-12T09:04:30",
+      "last_updated": "2026-07-12T09:29:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260605081207if_/https://pbs.twimg.com/profile_images/2056381618231918592/K69HyFD2_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1883105373282021376/rg3DITjr_normal.jpg": {
       "status": "done",
@@ -3726,9 +3726,9 @@
       "referenced_by": [
         "20260606031646_twitter_com_misakinae8964_status_2063097739450413089.json"
       ],
-      "last_updated": "2026-07-12T09:04:29",
+      "last_updated": "2026-07-12T09:29:37",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606031646if_/https://pbs.twimg.com/profile_images/2063063161402744832/3nCLB6dp_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg": {
       "status": "done",
@@ -4089,13 +4089,13 @@
       "last_updated": "2026-07-12T09:04:27"
     },
     "https://pbs.twimg.com/profile_images/2061502094721650688/JFAeoN1Y_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260612131005_twitter_com_misakinae8964_status_2065421379806331275.json"
       ],
-      "last_updated": "2026-07-12T09:04:28",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260612131005if_/https://pbs.twimg.com/profile_images/2061502094721650688/JFAeoN1Y_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-12T09:29:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612131005im_/https://pbs.twimg.com/profile_images/2061502094721650688/JFAeoN1Y_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3c2d553a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2065396079407894528/Yy33u8Ci_normal.jpg": {
       "status": "done",
@@ -4164,13 +4164,13 @@
       "last_updated": "2026-07-12T09:04:27"
     },
     "https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260615082125_twitter_com_misakinae8964_status_2066435897579708687.json"
       ],
-      "last_updated": "2026-07-12T09:04:30",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260615082125if_/https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-12T09:29:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615082125im_/https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3c2d5db620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg": {
       "status": "done",
@@ -4503,9 +4503,9 @@
         "20260628113107_twitter_com_misakinae8964_status_2071194681485197601.json",
         "20260628234743_twitter_com_misakinae8964_status_2071380051606823213.json"
       ],
-      "last_updated": "2026-07-12T09:04:29",
+      "last_updated": "2026-07-12T09:29:47",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg": {
       "status": "done",
@@ -6339,7 +6339,7 @@
       "last_updated": "2026-07-12T09:04:27"
     },
     "20260612131005_twitter_com_misakinae8964_status_2065421379806331275.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6348,7 +6348,7 @@
           "https://pbs.twimg.com/profile_images/2061502094721650688/JFAeoN1Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:04:28"
+      "last_updated": "2026-07-12T09:29:42"
     },
     "20260612131150_twitter_com_misakinae8964_status_2065421822599008696.json": {
       "status": "done",
@@ -6690,7 +6690,7 @@
       "last_updated": "2026-07-12T09:04:26"
     },
     "20260615082125_twitter_com_misakinae8964_status_2066435897579708687.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6700,7 +6700,7 @@
           "https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T09:04:30"
+      "last_updated": "2026-07-12T09:29:47"
     },
     "20260615082150_twitter_com_misakinae8964_status_2066436004077281284.json": {
       "status": "done",
