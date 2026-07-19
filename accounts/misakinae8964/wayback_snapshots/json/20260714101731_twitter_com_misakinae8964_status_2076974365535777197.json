@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2076974365535777197",
+    "created_at": "2026-07-14T10:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076974365535777197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vicooci_olvida…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/vicooci_olvidar/status/2076950571295387659",
+          "start": 9,
+          "url": "https://t.co/UyU70NVQ1g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076974365535777197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076950571295387659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女儿依旧最可爱哦 https://t.co/UyU70NVQ1g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2076950560146948096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLPh8GbgAALaFE.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2076974365535777197",
+        "created_at": "2026-07-14T10:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076974365535777197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vicooci_olvida…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/vicooci_olvidar/status/2076950571295387659",
+              "start": 9,
+              "url": "https://t.co/UyU70NVQ1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076974365535777197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076950571295387659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女儿依旧最可爱哦 https://t.co/UyU70NVQ1g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076950560146948096"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "conversation_id": "2076950571295387659",
+        "created_at": "2026-07-14T08:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T09:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076950571295387659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWZlsCBGDB",
+              "end": 23,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2076950571295387659/photo/1",
+              "media_key": "3_2076950560146948096",
+              "start": 0,
+              "url": "https://t.co/SWZlsCBGDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076950571295387659",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWZlsCBGDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 289,
+          "like_count": 2819,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "美金剛仙子｜全肯定@D_D_ovO_｜😺 @ashasw114514 @misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "床",
+        "name": "💿胃名立希◉‿◉",
+        "pinned_tweet_id": "2072999358048637429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 408,
+          "like_count": 25424,
+          "listed_count": 17,
+          "media_count": 1543,
+          "tweet_count": 19017
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

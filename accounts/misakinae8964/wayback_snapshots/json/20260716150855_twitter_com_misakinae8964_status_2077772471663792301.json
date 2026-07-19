@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2077768114641788998",
+    "created_at": "2026-07-16T15:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T16:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077772471663792301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621761267068473344",
+          "start": 0,
+          "username": "moriyomiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077772471663792301",
+    "in_reply_to_user_id": "1621761267068473344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077768114641788998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyomiko 原来他是这样的人吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2077768106857168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW3Fa7bgAAE8g-.jpg",
+        "width": 873
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077768106848743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW3Fa5a8AAFMPl.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077768106903232512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW3FbGaYAAAk9z.jpg",
+        "width": 946
+      },
+      {
+        "height": 589,
+        "media_key": "3_2077768106857148416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW3Fa7bMAALN_l.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2077768114641788998",
+        "created_at": "2026-07-16T15:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T16:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077772471663792301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621761267068473344",
+              "start": 0,
+              "username": "moriyomiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077772471663792301",
+        "in_reply_to_user_id": "1621761267068473344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077768114641788998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyomiko 原来他是这样的人吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077768106857168896",
+            "3_2077768106848743424",
+            "3_2077768106903232512",
+            "3_2077768106857148416"
+          ]
+        },
+        "author_id": "1621761267068473344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077768114641788998",
+        "created_at": "2026-07-16T14:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077768114641788998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcFVX6ytPK",
+              "end": 166,
+              "expanded_url": "https://x.com/moriyomiko/status/2077768114641788998/photo/1",
+              "media_key": "3_2077768106857168896",
+              "start": 143,
+              "url": "https://t.co/jcFVX6ytPK"
+            },
+            {
+              "display_url": "pic.x.com/jcFVX6ytPK",
+              "end": 166,
+              "expanded_url": "https://x.com/moriyomiko/status/2077768114641788998/photo/1",
+              "media_key": "3_2077768106848743424",
+              "start": 143,
+              "url": "https://t.co/jcFVX6ytPK"
+            },
+            {
+              "display_url": "pic.x.com/jcFVX6ytPK",
+              "end": 166,
+              "expanded_url": "https://x.com/moriyomiko/status/2077768114641788998/photo/1",
+              "media_key": "3_2077768106903232512",
+              "start": 143,
+              "url": "https://t.co/jcFVX6ytPK"
+            },
+            {
+              "display_url": "pic.x.com/jcFVX6ytPK",
+              "end": 166,
+              "expanded_url": "https://x.com/moriyomiko/status/2077768114641788998/photo/1",
+              "media_key": "3_2077768106857148416",
+              "start": 143,
+              "url": "https://t.co/jcFVX6ytPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077768114641788998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕药脑子磕傻了继续造谣，恋爱期间转账除去a的烟钱我就收了你十块说我欠你三千，赞赏码给了566我都拿去给你买酒买奶茶了住我这我每天照顾你饮食起居自己和前任没分手就在找我聊暧昧了在一起之后和我骂前任背地里又想找人家复合何意味😁明面上和我好好说背地里造谣瞎骂再骂我一句你吸毒视频我直接发晶哥 https://t.co/jcFVX6ytPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 295,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "是本人不是搬运\n现实生活很幸福\n不参与任何战争，你骂就是你对",
+        "id": "1621761267068473344",
+        "location": "神圣赵宋苏丹国",
+        "name": "太祖赵匡胤（佳代子全肯定bot）",
+        "pinned_tweet_id": "2048385844382446045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461519412563968/1Op1PdI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 496,
+          "like_count": 13491,
+          "listed_count": 4,
+          "media_count": 784,
+          "tweet_count": 5125
+        },
+        "url": "",
+        "username": "moriyomiko",
+        "verified": false
+      }
+    ]
+  }
+}

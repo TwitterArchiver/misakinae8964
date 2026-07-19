@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2076077505627537577",
+    "created_at": "2026-07-12T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076185225416384611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618196891887611906",
+          "start": 0,
+          "username": "kayoko_0619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076185225416384611",
+    "in_reply_to_user_id": "1618196891887611906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076184599643013341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kayoko_0619 可以 我也挺想去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2076077505627537577",
+        "created_at": "2026-07-12T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076185225416384611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618196891887611906",
+              "start": 0,
+              "username": "kayoko_0619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076185225416384611",
+        "in_reply_to_user_id": "1618196891887611906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076184599643013341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kayoko_0619 可以 我也挺想去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618196891887611906",
+        "conversation_id": "2076077505627537577",
+        "created_at": "2026-07-12T05:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076184599643013341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076184599643013341",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076077505627537577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 替我上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 278,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T10:39:49.000Z",
+        "description": "",
+        "id": "1618196891887611906",
+        "name": "kayoko♪",
+        "pinned_tweet_id": "2064935702027247943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656986784062922752/QMtPLjjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 115,
+          "like_count": 2472,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "kayoko_0619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076606920941764609"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "conversation_id": "2076607166350565803",
+    "created_at": "2026-07-13T09:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076607166350565803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ft0LcBD5YV",
+          "end": 45,
+          "expanded_url": "https://x.com/misakinae8964/status/2076607166350565803/video/1",
+          "media_key": "13_2076606920941764609",
+          "start": 22,
+          "url": "https://t.co/ft0LcBD5YV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076607166350565803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三崎打针教学，没有复杂的步骤只有演示和干货 https://t.co/ft0LcBD5YV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120173,
+        "height": 854,
+        "media_key": "13_2076606920941764609",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076606920941764609/img/HhZxzPeGYlVKyNRq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076606920941764609/vid/avc1/320x568/Xh465falSH1FK95W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076606920941764609/vid/avc1/480x854/UGN8ibSD-zd1j31r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076606920941764609/pl/9ORoD1wCdDCBuc3V.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076606920941764609"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "conversation_id": "2076607166350565803",
+        "created_at": "2026-07-13T09:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076607166350565803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ft0LcBD5YV",
+              "end": 45,
+              "expanded_url": "https://x.com/misakinae8964/status/2076607166350565803/video/1",
+              "media_key": "13_2076606920941764609",
+              "start": 22,
+              "url": "https://t.co/ft0LcBD5YV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076607166350565803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三崎打针教学，没有复杂的步骤只有演示和干货 https://t.co/ft0LcBD5YV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 285,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}

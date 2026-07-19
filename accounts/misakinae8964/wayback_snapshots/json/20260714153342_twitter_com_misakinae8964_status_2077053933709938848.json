@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2076977615974645812",
+    "created_at": "2026-07-14T15:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077053933709938848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917511942182498304",
+          "start": 0,
+          "username": "anothervicooci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077053933709938848",
+    "in_reply_to_user_id": "1917511942182498304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077038131564675481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anothervicooci 好哦，你来了的话一定给你做"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077038131564675481].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077038131564675481",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077038131564675481"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2076977615974645812",
+        "created_at": "2026-07-14T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077053933709938848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917511942182498304",
+              "start": 0,
+              "username": "anothervicooci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077053933709938848",
+        "in_reply_to_user_id": "1917511942182498304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077038131564675481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anothervicooci 好哦，你来了的话一定给你做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 291,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T09:30:58.000Z",
+        "description": "最恶心的人 @vicooci_olvidar\n拐弯@D_D_ovo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "vicooci_olvidar"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "D_D_ovo_"
+              }
+            ]
+          }
+        },
+        "id": "1917511942182498304",
+        "location": "时间的漩涡",
+        "name": "ねね",
+        "pinned_tweet_id": "1972123849367212093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073284656120934401/fntdcHpS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 117,
+          "like_count": 456,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "anothervicooci",
+        "verified": false
+      }
+    ]
+  }
+}

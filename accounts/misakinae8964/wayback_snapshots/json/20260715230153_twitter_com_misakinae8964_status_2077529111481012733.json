@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2048385844382446045",
+    "created_at": "2026-07-15T23:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077529111481012733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621761267068473344",
+          "start": 0,
+          "username": "moriyomiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077529111481012733",
+    "in_reply_to_user_id": "1621761267068473344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048385844382446045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyomiko 陛下，请穿黄袍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1817,
+        "media_key": "3_2048385835620515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1UEI8aQAAWxOp.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2048385835620540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1UEI8aoAAJJla.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1789,
+        "media_key": "3_2048385835645693953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1UEJCacAESH50.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2048385835616317440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1UEI7aMAA-a_U.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2048385844382446045",
+        "created_at": "2026-07-15T23:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077529111481012733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621761267068473344",
+              "start": 0,
+              "username": "moriyomiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077529111481012733",
+        "in_reply_to_user_id": "1621761267068473344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048385844382446045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyomiko 陛下，请穿黄袍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048385835620515840",
+            "3_2048385835620540416",
+            "3_2048385835645693953",
+            "3_2048385835616317440"
+          ]
+        },
+        "author_id": "1621761267068473344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2048385844382446045",
+        "created_at": "2026-04-26T12:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048385844382446045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUjGnAdYy9",
+              "end": 162,
+              "expanded_url": "https://x.com/moriyomiko/status/2048385844382446045/photo/1",
+              "media_key": "3_2048385835620515840",
+              "start": 139,
+              "url": "https://t.co/cUjGnAdYy9"
+            },
+            {
+              "display_url": "pic.x.com/cUjGnAdYy9",
+              "end": 162,
+              "expanded_url": "https://x.com/moriyomiko/status/2048385844382446045/photo/1",
+              "media_key": "3_2048385835620540416",
+              "start": 139,
+              "url": "https://t.co/cUjGnAdYy9"
+            },
+            {
+              "display_url": "pic.x.com/cUjGnAdYy9",
+              "end": 162,
+              "expanded_url": "https://x.com/moriyomiko/status/2048385844382446045/photo/1",
+              "media_key": "3_2048385835645693953",
+              "start": 139,
+              "url": "https://t.co/cUjGnAdYy9"
+            },
+            {
+              "display_url": "pic.x.com/cUjGnAdYy9",
+              "end": 162,
+              "expanded_url": "https://x.com/moriyomiko/status/2048385844382446045/photo/1",
+              "media_key": "3_2048385835616317440",
+              "start": 139,
+              "url": "https://t.co/cUjGnAdYy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048385844382446045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6861,
+          "like_count": 76,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新简介\n我素赵匡胤，可以叫我小祀\n账号会发不定期发自拍和炒作爆论以及做饭烹饪日常\n虽然抽象但其实人很好相处喵  经常互动的宝宝会回关！\n可以找窝打游戏\n一天要打两份工所以消息回复不勤快\n不忙看见一般都会回\n希望大家都能幸福\n喜欢主播可以给主播发一些小红包🧧\n和你互动就是喜欢你 https://t.co/cUjGnAdYy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 296,
+          "like_count": 2966,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "是本人不是搬运\n现实生活很幸福\n不参与任何战争，你骂就是你对",
+        "id": "1621761267068473344",
+        "location": "神圣赵宋苏丹国",
+        "name": "太祖赵匡胤（佳代子全肯定bot）",
+        "pinned_tweet_id": "2048385844382446045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461519412563968/1Op1PdI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 497,
+          "like_count": 13483,
+          "listed_count": 4,
+          "media_count": 783,
+          "tweet_count": 5120
+        },
+        "url": "",
+        "username": "moriyomiko",
+        "verified": false
+      }
+    ]
+  }
+}

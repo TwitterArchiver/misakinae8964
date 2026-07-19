@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2077415631490826246",
+    "created_at": "2026-07-15T16:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077427995346964752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077427995346964752",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077415631490826246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 都不叫上我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077415624079454209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2gOQaMAEmD04.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077415624079540224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2gOQbgAAadOk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077415624683425792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR2gQgaEAAw4sr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2077415631490826246",
+        "created_at": "2026-07-15T16:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077427995346964752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077427995346964752",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077415631490826246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 都不叫上我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077415624079454209",
+            "3_2077415624079540224",
+            "3_2077415624683425792"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077415631490826246",
+        "created_at": "2026-07-15T15:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077415631490826246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TJ8KzYXg3",
+              "end": 34,
+              "expanded_url": "https://x.com/kiss_u_back/status/2077415631490826246/photo/1",
+              "media_key": "3_2077415624079454209",
+              "start": 11,
+              "url": "https://t.co/1TJ8KzYXg3"
+            },
+            {
+              "display_url": "pic.x.com/1TJ8KzYXg3",
+              "end": 34,
+              "expanded_url": "https://x.com/kiss_u_back/status/2077415631490826246/photo/1",
+              "media_key": "3_2077415624079540224",
+              "start": 11,
+              "url": "https://t.co/1TJ8KzYXg3"
+            },
+            {
+              "display_url": "pic.x.com/1TJ8KzYXg3",
+              "end": 34,
+              "expanded_url": "https://x.com/kiss_u_back/status/2077415631490826246/photo/1",
+              "media_key": "3_2077415624683425792",
+              "start": 11,
+              "url": "https://t.co/1TJ8KzYXg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077415631490826246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开香槟咯🍾🍾🍾🥂🥂🥂 https://t.co/1TJ8KzYXg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 294,
+          "like_count": 2948,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n已阳痿 勿骚扰\n请礼貌沟通 侮辱词见到就毕业🎓",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 190,
+          "like_count": 1698,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}
