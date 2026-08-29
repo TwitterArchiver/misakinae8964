@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-20T05:52:17",
+  "last_updated": "2026-08-29T17:45:08",
   "html": {
     "https://web.archive.org/web/20260601113640if_/https://twitter.com/misakinae8964/status/2061411604072452329": {
       "status": "done",
@@ -2381,6 +2381,890 @@
     "https://web.archive.org/web/20260717145953if_/https://twitter.com/misakinae8964/status/2078132588888395832": {
       "status": "done",
       "last_updated": "2026-07-19T14:59:46"
+    },
+    "https://web.archive.org/web/20260716071108if_/https://twitter.com/misakinae8964/status/2077652234754814196": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:26"
+    },
+    "https://web.archive.org/web/20260717051053if_/https://twitter.com/misakinae8964/status/2077984363191644411": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:27"
+    },
+    "https://web.archive.org/web/20260718013447if_/https://twitter.com/misakinae8964/status/2078292365790544089": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:27"
+    },
+    "https://web.archive.org/web/20260713153124if_/https://twitter.com/misakinae8964/status/2076690967059722434": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:28"
+    },
+    "https://web.archive.org/web/20260716154219if_/https://twitter.com/misakinae8964/status/2077780877535567881": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:28"
+    },
+    "https://web.archive.org/web/20260718053539if_/https://twitter.com/misakinae8964/status/2078352983746826269": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:30"
+    },
+    "https://web.archive.org/web/20260718063219if_/https://twitter.com/misakinae8964/status/2078367244061683840": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:31",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718063219if_/https://twitter.com/misakinae8964/status/2078367244061683840",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260713204419if_/https://twitter.com/misakinae8964/status/2076769716660785428": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:31"
+    },
+    "https://web.archive.org/web/20260718081918if_/https://twitter.com/misakinae8964/status/2078394165633892749": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:32"
+    },
+    "https://web.archive.org/web/20260716154205if_/https://twitter.com/misakinae8964/status/2077780821851971696": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:32"
+    },
+    "https://web.archive.org/web/20260718081951if_/https://twitter.com/misakinae8964/status/2078394305291735540": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:37",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718081951if_/https://twitter.com/misakinae8964/status/2078394305291735540",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718114742if_/https://twitter.com/misakinae8964/status/2078446609428623445": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:38"
+    },
+    "https://web.archive.org/web/20260718114813if_/https://twitter.com/misakinae8964/status/2078446740278321489": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:38"
+    },
+    "https://web.archive.org/web/20260718082600if_/https://twitter.com/misakinae8964/status/2078395850515214805": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718082600if_/https://twitter.com/misakinae8964/status/2078395850515214805",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718084652if_/https://twitter.com/misakinae8964/status/2078401102714912827": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718084652if_/https://twitter.com/misakinae8964/status/2078401102714912827",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718085545if_/https://twitter.com/misakinae8964/status/2078403337658241410": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718085545if_/https://twitter.com/misakinae8964/status/2078403337658241410",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718094149if_/https://twitter.com/misakinae8964/status/2078414930576015531": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718094149if_/https://twitter.com/misakinae8964/status/2078414930576015531",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718104156if_/https://twitter.com/misakinae8964/status/2078430060420456710": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:41",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718104156if_/https://twitter.com/misakinae8964/status/2078430060420456710",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718105623if_/https://twitter.com/misakinae8964/status/2078433699172098161": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:43",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718105623if_/https://twitter.com/misakinae8964/status/2078433699172098161",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718114757if_/https://twitter.com/misakinae8964/status/2078446674415145224": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:43",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718114757if_/https://twitter.com/misakinae8964/status/2078446674415145224",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260719050557if_/https://twitter.com/misakinae8964/status/2078707894800044150": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:48"
+    },
+    "https://web.archive.org/web/20260718190602if_/https://twitter.com/misakinae8964/status/2078556922735964324": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:49",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718190602if_/https://twitter.com/misakinae8964/status/2078556922735964324",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720060602if_/https://twitter.com/misakinae8964/status/2079085403257340356": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:49"
+    },
+    "https://web.archive.org/web/20260718212804if_/https://twitter.com/misakinae8964/status/2078592664652730858": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:49",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718212804if_/https://twitter.com/misakinae8964/status/2078592664652730858",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260718212825if_/https://twitter.com/misakinae8964/status/2078592754184265735": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:50",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260718212825if_/https://twitter.com/misakinae8964/status/2078592754184265735",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260719050520if_/https://twitter.com/misakinae8964/status/2078707738805403944": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:50",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260719050520if_/https://twitter.com/misakinae8964/status/2078707738805403944",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260719050457if_/https://twitter.com/misakinae8964/status/2078707644521750565": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:50",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260719050457if_/https://twitter.com/misakinae8964/status/2078707644521750565",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260719050533if_/https://twitter.com/misakinae8964/status/2078707795000758279": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:51",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260719050533if_/https://twitter.com/misakinae8964/status/2078707795000758279",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720060347if_/https://twitter.com/misakinae8964/status/2079084839807115458": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:53"
+    },
+    "https://web.archive.org/web/20260720060631if_/https://twitter.com/misakinae8964/status/2079085524376326276": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:54",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720060631if_/https://twitter.com/misakinae8964/status/2079085524376326276",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720115609if_/https://twitter.com/misakinae8964/status/2079173514595336599": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:41:56"
+    },
+    "https://web.archive.org/web/20260720083348if_/https://twitter.com/misakinae8964/status/2079122592414462000": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:41:59",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720083348if_/https://twitter.com/misakinae8964/status/2079122592414462000",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720083405if_/https://twitter.com/misakinae8964/status/2079122662551679225": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:00",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720083405if_/https://twitter.com/misakinae8964/status/2079122662551679225",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720083357if_/https://twitter.com/misakinae8964/status/2079122629446050162": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:00"
+    },
+    "https://web.archive.org/web/20260720083413if_/https://twitter.com/misakinae8964/status/2079122694256394403": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720083413if_/https://twitter.com/misakinae8964/status/2079122694256394403",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720092913if_/https://twitter.com/misakinae8964/status/2079136537368031735": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720092913if_/https://twitter.com/misakinae8964/status/2079136537368031735",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720101605if_/https://twitter.com/misakinae8964/status/2079148330551288258": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720101605if_/https://twitter.com/misakinae8964/status/2079148330551288258",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720121457if_/https://twitter.com/misakinae8964/status/2079178246281966032": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:02",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720121457if_/https://twitter.com/misakinae8964/status/2079178246281966032",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720150057if_/https://twitter.com/misakinae8964/status/2079220019200922052": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:04",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720150057if_/https://twitter.com/misakinae8964/status/2079220019200922052",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720155916if_/https://twitter.com/misakinae8964/status/2079234697369170223": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:05",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720155916if_/https://twitter.com/misakinae8964/status/2079234697369170223",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720160800if_/https://twitter.com/misakinae8964/status/2079236893095649643": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:07",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720160800if_/https://twitter.com/misakinae8964/status/2079236893095649643",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721042412if_/https://twitter.com/misakinae8964/status/2079422164537901113": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:08"
+    },
+    "https://web.archive.org/web/20260720193458if_/https://twitter.com/misakinae8964/status/2079288977962790976": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:10",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720193458if_/https://twitter.com/misakinae8964/status/2079288977962790976",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720200003if_/https://twitter.com/misakinae8964/status/2079295290335715590": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:12",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720200003if_/https://twitter.com/misakinae8964/status/2079295290335715590",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260720213026if_/https://twitter.com/misakinae8964/status/2079318038902718973": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:12",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260720213026if_/https://twitter.com/misakinae8964/status/2079318038902718973",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721035633if_/https://twitter.com/misakinae8964/status/2079415207386906736": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:12",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721035633if_/https://twitter.com/misakinae8964/status/2079415207386906736",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721042220if_/https://twitter.com/misakinae8964/status/2079421694448734622": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:12",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721042220if_/https://twitter.com/misakinae8964/status/2079421694448734622",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721042300if_/https://twitter.com/misakinae8964/status/2079421861428105246": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:13",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721042300if_/https://twitter.com/misakinae8964/status/2079421861428105246",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721042531if_/https://twitter.com/misakinae8964/status/2079422497745981562": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:16",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721042531if_/https://twitter.com/misakinae8964/status/2079422497745981562",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721052426if_/https://twitter.com/misakinae8964/status/2079437321108427067": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:17",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721052426if_/https://twitter.com/misakinae8964/status/2079437321108427067",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722071857if_/https://twitter.com/misakinae8964/status/2079828528691052664": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:18"
+    },
+    "https://web.archive.org/web/20260721061749if_/https://twitter.com/misakinae8964/status/2079450758995701912": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:19",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721061749if_/https://twitter.com/misakinae8964/status/2079450758995701912",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722094609if_/https://twitter.com/misakinae8964/status/2079865574373597586": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:19"
+    },
+    "https://web.archive.org/web/20260721065830if_/https://twitter.com/misakinae8964/status/2079460995768918343": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:19",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721065830if_/https://twitter.com/misakinae8964/status/2079460995768918343",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721080841if_/https://twitter.com/misakinae8964/status/2079478656037249404": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:21",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721080841if_/https://twitter.com/misakinae8964/status/2079478656037249404",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260721143720if_/https://twitter.com/misakinae8964/status/2079576464413114819": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:23",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260721143720if_/https://twitter.com/misakinae8964/status/2079576464413114819",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722072924if_/https://twitter.com/misakinae8964/status/2079831161405333510": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:23",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722072924if_/https://twitter.com/misakinae8964/status/2079831161405333510",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722094524if_/https://twitter.com/misakinae8964/status/2079865387127320581": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:24"
+    },
+    "https://web.archive.org/web/20260722125201if_/https://twitter.com/misakinae8964/status/2079912348245274959": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:27"
+    },
+    "https://web.archive.org/web/20260722130310if_/https://twitter.com/misakinae8964/status/2079915154901524838": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:28",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722130310if_/https://twitter.com/misakinae8964/status/2079915154901524838",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722131903if_/https://twitter.com/misakinae8964/status/2079919150617751602": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:29"
+    },
+    "https://web.archive.org/web/20260722131927if_/https://twitter.com/misakinae8964/status/2079919251872526441": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:30",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722131927if_/https://twitter.com/misakinae8964/status/2079919251872526441",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722131914if_/https://twitter.com/misakinae8964/status/2079919198906806611": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:30",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722131914if_/https://twitter.com/misakinae8964/status/2079919198906806611",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722161821if_/https://twitter.com/misakinae8964/status/2079964275746189778": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:30",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722161821if_/https://twitter.com/misakinae8964/status/2079964275746189778",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722171831if_/https://twitter.com/misakinae8964/status/2079979416973918243": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:31"
+    },
+    "https://web.archive.org/web/20260722161847if_/https://twitter.com/misakinae8964/status/2079964382872908150": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:33",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722161847if_/https://twitter.com/misakinae8964/status/2079964382872908150",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722162710if_/https://twitter.com/misakinae8964/status/2079966491068510718": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:34",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722162710if_/https://twitter.com/misakinae8964/status/2079966491068510718",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260722171823if_/https://twitter.com/misakinae8964/status/2079979383306232063": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:35",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722171823if_/https://twitter.com/misakinae8964/status/2079979383306232063",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723085828if_/https://twitter.com/misakinae8964/status/2080215961223958920": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:37"
+    },
+    "https://web.archive.org/web/20260722171932if_/https://twitter.com/misakinae8964/status/2079979671060681195": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260722171932if_/https://twitter.com/misakinae8964/status/2079979671060681195",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723015434if_/https://twitter.com/misakinae8964/status/2080109285984628799": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:39",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723015434if_/https://twitter.com/misakinae8964/status/2080109285984628799",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723034757if_/https://twitter.com/misakinae8964/status/2080137816122831061": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:41",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723034757if_/https://twitter.com/misakinae8964/status/2080137816122831061",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723071832if_/https://twitter.com/misakinae8964/status/2080190810780569630": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:41",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723071832if_/https://twitter.com/misakinae8964/status/2080190810780569630",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723044644if_/https://twitter.com/misakinae8964/status/2080152612142555609": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:41",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723044644if_/https://twitter.com/misakinae8964/status/2080152612142555609",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723071841if_/https://twitter.com/misakinae8964/status/2080190851347792123": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:42",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723071841if_/https://twitter.com/misakinae8964/status/2080190851347792123",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723090510if_/https://twitter.com/misakinae8964/status/2080217647401304153": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:44",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723090510if_/https://twitter.com/misakinae8964/status/2080217647401304153",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723090542if_/https://twitter.com/misakinae8964/status/2080217782336315527": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:46",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723090542if_/https://twitter.com/misakinae8964/status/2080217782336315527",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723091909if_/https://twitter.com/misakinae8964/status/2080221168829956127": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:46",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723091909if_/https://twitter.com/misakinae8964/status/2080221168829956127",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723141948if_/https://twitter.com/misakinae8964/status/2080296827979755882": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:42:47"
+    },
+    "https://web.archive.org/web/20260723095823if_/https://twitter.com/misakinae8964/status/2080231040128520530": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:48",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723095823if_/https://twitter.com/misakinae8964/status/2080231040128520530",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723113333if_/https://twitter.com/misakinae8964/status/2080254989994467709": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:50",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723113333if_/https://twitter.com/misakinae8964/status/2080254989994467709",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723130826if_/https://twitter.com/misakinae8964/status/2080278868758528378": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:51",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723130826if_/https://twitter.com/misakinae8964/status/2080278868758528378",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723130858if_/https://twitter.com/misakinae8964/status/2080279004062625874": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:52",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723130858if_/https://twitter.com/misakinae8964/status/2080279004062625874",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723141926if_/https://twitter.com/misakinae8964/status/2080296734832599533": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:53",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723141926if_/https://twitter.com/misakinae8964/status/2080296734832599533",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723142007if_/https://twitter.com/misakinae8964/status/2080296908824915996": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:53",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723142007if_/https://twitter.com/misakinae8964/status/2080296908824915996",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723171011if_/https://twitter.com/misakinae8964/status/2080339707205177598": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:55",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723171011if_/https://twitter.com/misakinae8964/status/2080339707205177598",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723171202if_/https://twitter.com/misakinae8964/status/2080340170520633531": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:57",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723171202if_/https://twitter.com/misakinae8964/status/2080340170520633531",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723173446if_/https://twitter.com/misakinae8964/status/2080345895036768655": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:58",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723173446if_/https://twitter.com/misakinae8964/status/2080345895036768655",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723222710if_/https://twitter.com/misakinae8964/status/2080419479507616119": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:42:59",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723222710if_/https://twitter.com/misakinae8964/status/2080419479507616119",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723223313if_/https://twitter.com/misakinae8964/status/2080421000005734818": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:00",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723223313if_/https://twitter.com/misakinae8964/status/2080421000005734818",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723223316if_/https://twitter.com/misakinae8964/status/2080421014866137119": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723223316if_/https://twitter.com/misakinae8964/status/2080421014866137119",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260723223351if_/https://twitter.com/misakinae8964/status/2080421159200518301": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:02",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260723223351if_/https://twitter.com/misakinae8964/status/2080421159200518301",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724001019if_/https://twitter.com/misakinae8964/status/2080445436205408538": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:03",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724001019if_/https://twitter.com/misakinae8964/status/2080445436205408538",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724054937if_/https://twitter.com/misakinae8964/status/2080530823900770809": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:04",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724054937if_/https://twitter.com/misakinae8964/status/2080530823900770809",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055106if_/https://twitter.com/misakinae8964/status/2080531195407081882": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:04",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055106if_/https://twitter.com/misakinae8964/status/2080531195407081882",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055221if_/https://twitter.com/misakinae8964/status/2080531513666678933": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:07",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055221if_/https://twitter.com/misakinae8964/status/2080531513666678933",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055320if_/https://twitter.com/misakinae8964/status/2080531759050166398": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:08",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055320if_/https://twitter.com/misakinae8964/status/2080531759050166398",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055600if_/https://twitter.com/misakinae8964/status/2080532430981828728": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:09",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055600if_/https://twitter.com/misakinae8964/status/2080532430981828728",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055736if_/https://twitter.com/misakinae8964/status/2080532832573882632": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:10",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055736if_/https://twitter.com/misakinae8964/status/2080532832573882632",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055922if_/https://twitter.com/misakinae8964/status/2080533275974811914": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:13",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724055922if_/https://twitter.com/misakinae8964/status/2080533275974811914",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724055822if_/https://twitter.com/misakinae8964/status/2080533027336401368": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:13"
+    },
+    "https://web.archive.org/web/20260724060033if_/https://twitter.com/misakinae8964/status/2080533574382768303": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:13",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724060033if_/https://twitter.com/misakinae8964/status/2080533574382768303",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724064243if_/https://twitter.com/misakinae8964/status/2080544188396192165": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:15",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724064243if_/https://twitter.com/misakinae8964/status/2080544188396192165",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724090523if_/https://twitter.com/misakinae8964/status/2080580089029542086": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:15",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724090523if_/https://twitter.com/misakinae8964/status/2080580089029542086",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724090634if_/https://twitter.com/misakinae8964/status/2080580386565030122": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:16",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724090634if_/https://twitter.com/misakinae8964/status/2080580386565030122",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724164652if_/https://twitter.com/misakinae8964/status/2080696226711011424": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:18",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724164652if_/https://twitter.com/misakinae8964/status/2080696226711011424",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724164723if_/https://twitter.com/misakinae8964/status/2080696356340170914": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:19",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724164723if_/https://twitter.com/misakinae8964/status/2080696356340170914",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724211926if_/https://twitter.com/misakinae8964/status/2080764817997263187": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:20",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724211926if_/https://twitter.com/misakinae8964/status/2080764817997263187",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260724212206if_/https://twitter.com/misakinae8964/status/2080765489933140259": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:21",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260724212206if_/https://twitter.com/misakinae8964/status/2080765489933140259",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725073950if_/https://twitter.com/misakinae8964/status/2080920947587252685": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:22"
+    },
+    "https://web.archive.org/web/20260725025700if_/https://twitter.com/misakinae8964/status/2080849771489792513": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:24",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725025700if_/https://twitter.com/misakinae8964/status/2080849771489792513",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725031506if_/https://twitter.com/misakinae8964/status/2080854327628099968": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:25",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725031506if_/https://twitter.com/misakinae8964/status/2080854327628099968",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725034056if_/https://twitter.com/misakinae8964/status/2080860828107149821": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:25",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725034056if_/https://twitter.com/misakinae8964/status/2080860828107149821",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725041935if_/https://twitter.com/misakinae8964/status/2080870555461505440": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:26",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725041935if_/https://twitter.com/misakinae8964/status/2080870555461505440",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725045133if_/https://twitter.com/misakinae8964/status/2080878597662003430": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:27",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725045133if_/https://twitter.com/misakinae8964/status/2080878597662003430",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725090744if_/https://twitter.com/misakinae8964/status/2080943070749847952": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:29",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725090744if_/https://twitter.com/misakinae8964/status/2080943070749847952",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725091349if_/https://twitter.com/misakinae8964/status/2080944600714502644": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:31",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725091349if_/https://twitter.com/misakinae8964/status/2080944600714502644",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725102413if_/https://twitter.com/misakinae8964/status/2080962318796791909": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:32"
+    },
+    "https://web.archive.org/web/20260725120528if_/https://twitter.com/misakinae8964/status/2080987799273247126": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:33",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725120528if_/https://twitter.com/misakinae8964/status/2080987799273247126",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725120658if_/https://twitter.com/misakinae8964/status/2080988174831243645": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:33",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725120658if_/https://twitter.com/misakinae8964/status/2080988174831243645",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725132432if_/https://twitter.com/misakinae8964/status/2081007695898030281": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:35",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725132432if_/https://twitter.com/misakinae8964/status/2081007695898030281",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725141828if_/https://twitter.com/misakinae8964/status/2081021268275646665": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:36",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725141828if_/https://twitter.com/misakinae8964/status/2081021268275646665",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725160448if_/https://twitter.com/misakinae8964/status/2081048026706235635": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:36",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725160448if_/https://twitter.com/misakinae8964/status/2081048026706235635",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260725211440if_/https://twitter.com/misakinae8964/status/2081126007302701176": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:37",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260725211440if_/https://twitter.com/misakinae8964/status/2081126007302701176",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726015842if_/https://twitter.com/misakinae8964/status/2081197489169039396": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:38",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726015842if_/https://twitter.com/misakinae8964/status/2081197489169039396",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726050220if_/https://twitter.com/misakinae8964/status/2081243699649085922": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:41",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726050220if_/https://twitter.com/misakinae8964/status/2081243699649085922",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726062754if_/https://twitter.com/misakinae8964/status/2081265235177177373": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:42",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726062754if_/https://twitter.com/misakinae8964/status/2081265235177177373",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726090820if_/https://twitter.com/misakinae8964/status/2081305609811677305": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:43",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726090820if_/https://twitter.com/misakinae8964/status/2081305609811677305",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726111712if_/https://twitter.com/misakinae8964/status/2081338038530314729": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:44",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726111712if_/https://twitter.com/misakinae8964/status/2081338038530314729",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726111702if_/https://twitter.com/misakinae8964/status/2081337996952191018": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:44"
+    },
+    "https://web.archive.org/web/20260726113030if_/https://twitter.com/misakinae8964/status/2081341387816235114": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:46",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726113030if_/https://twitter.com/misakinae8964/status/2081341387816235114",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726153206if_/https://twitter.com/misakinae8964/status/2081402184982474922": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:47",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726153206if_/https://twitter.com/misakinae8964/status/2081402184982474922",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726113052if_/https://twitter.com/misakinae8964/status/2081341479801573671": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:47",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726113052if_/https://twitter.com/misakinae8964/status/2081341479801573671",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726162445if_/https://twitter.com/misakinae8964/status/2081415437196398908": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:49",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726162445if_/https://twitter.com/misakinae8964/status/2081415437196398908",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260726195643if_/https://twitter.com/misakinae8964/status/2081468781025710573": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:49",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260726195643if_/https://twitter.com/misakinae8964/status/2081468781025710573",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727060717if_/https://twitter.com/misakinae8964/status/2081622432247591041": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:50"
+    },
+    "https://web.archive.org/web/20260727073921if_/https://twitter.com/misakinae8964/status/2081645603592024552": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:50"
+    },
+    "https://web.archive.org/web/20260727023053if_/https://twitter.com/misakinae8964/status/2081567976587940149": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:52",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727023053if_/https://twitter.com/misakinae8964/status/2081567976587940149",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727023132if_/https://twitter.com/misakinae8964/status/2081568136382537789": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:53",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727023132if_/https://twitter.com/misakinae8964/status/2081568136382537789",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727064427if_/https://twitter.com/misakinae8964/status/2081631787944718748": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:56",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727064427if_/https://twitter.com/misakinae8964/status/2081631787944718748",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727134453if_/https://twitter.com/misakinae8964/status/2081737591586701458": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:58",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727134453if_/https://twitter.com/misakinae8964/status/2081737591586701458",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727150836if_/https://twitter.com/misakinae8964/status/2081758658585854134": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:43:59",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727150836if_/https://twitter.com/misakinae8964/status/2081758658585854134",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727150843if_/https://twitter.com/misakinae8964/status/2081758689166557692": {
+      "status": "done",
+      "last_updated": "2026-08-29T17:43:59"
+    },
+    "https://web.archive.org/web/20260727152044if_/https://twitter.com/misakinae8964/status/2081761714559914104": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:00",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727152044if_/https://twitter.com/misakinae8964/status/2081761714559914104",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727164945if_/https://twitter.com/misakinae8964/status/2081784115511386587": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727164945if_/https://twitter.com/misakinae8964/status/2081784115511386587",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727213538if_/https://twitter.com/misakinae8964/status/2081856062207221802": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:01",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727213538if_/https://twitter.com/misakinae8964/status/2081856062207221802",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727213600if_/https://twitter.com/misakinae8964/status/2081856154758693011": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:02",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727213600if_/https://twitter.com/misakinae8964/status/2081856154758693011",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260727213615if_/https://twitter.com/misakinae8964/status/2081856216599589027": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:03",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260727213615if_/https://twitter.com/misakinae8964/status/2081856216599589027",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728054357if_/https://twitter.com/misakinae8964/status/2081978947856982319": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:05",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728054357if_/https://twitter.com/misakinae8964/status/2081978947856982319",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728054406if_/https://twitter.com/misakinae8964/status/2081978986071196073": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:07",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728054406if_/https://twitter.com/misakinae8964/status/2081978986071196073",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728091655if_/https://twitter.com/misakinae8964/status/2082032543055204676": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:09",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728091655if_/https://twitter.com/misakinae8964/status/2082032543055204676",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728091718if_/https://twitter.com/misakinae8964/status/2082032638765011192": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:10",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728091718if_/https://twitter.com/misakinae8964/status/2082032638765011192",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728104813if_/https://twitter.com/misakinae8964/status/2082055520341672084": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:11",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728104813if_/https://twitter.com/misakinae8964/status/2082055520341672084",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728104823if_/https://twitter.com/misakinae8964/status/2082055563975025064": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:11",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728104823if_/https://twitter.com/misakinae8964/status/2082055563975025064",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728104827if_/https://twitter.com/misakinae8964/status/2082055580995530754": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:12",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728104827if_/https://twitter.com/misakinae8964/status/2082055580995530754",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728104834if_/https://twitter.com/misakinae8964/status/2082055607335678407": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:13",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728104834if_/https://twitter.com/misakinae8964/status/2082055607335678407",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728112907if_/https://twitter.com/misakinae8964/status/2082065813742432358": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:13",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728112907if_/https://twitter.com/misakinae8964/status/2082065813742432358",
+      "miss_count": 1
+    },
+    "https://web.archive.org/web/20260728122635if_/https://twitter.com/misakinae8964/status/2082080274582806885": {
+      "status": "failed",
+      "last_updated": "2026-08-29T17:44:14",
+      "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260728122635if_/https://twitter.com/misakinae8964/status/2082080274582806885",
+      "miss_count": 1
     }
   },
   "images": {
@@ -3746,6 +4630,110 @@
         "20260717175359_twitter_com_misakinae8964_status_2078176402109800565.json"
       ],
       "last_updated": "2026-07-19T14:59:50"
+    },
+    "https://pbs.twimg.com/media/HNHQuzsW4AAh9OW.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260713153124_twitter_com_misakinae8964_status_2076690967059722434.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HNU8cqZa4AAwt4b.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260716071108_twitter_com_misakinae8964_status_2077652234754814196.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HNW9M_WbQAEkHdl.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260716154219_twitter_com_misakinae8964_status_2077780877535567881.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HNdFQi-bAAEgjFo.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260718013447_twitter_com_misakinae8964_status_2078292365790544089.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HNpkosgbEAAiHdt.jpg": {
+      "status": "failed",
+      "referenced_by": [
+        "20260720060347_twitter_com_misakinae8964_status_2079084839807115458.json"
+      ],
+      "last_updated": "2026-08-29T17:44:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260720060347if_/https://pbs.twimg.com/media/HNpkosgbEAAiHdt.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffabf1c6960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
+    },
+    "https://pbs.twimg.com/media/HNpkosoaoAAhQ5I.jpg": {
+      "status": "failed",
+      "referenced_by": [
+        "20260720060347_twitter_com_misakinae8964_status_2079084839807115458.json"
+      ],
+      "last_updated": "2026-08-29T17:44:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260720060347im_/https://pbs.twimg.com/media/HNpkosoaoAAhQ5I.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffabf201100>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
+    },
+    "https://pbs.twimg.com/media/HNlYZrcbAAA4M_P.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260721042412_twitter_com_misakinae8964_status_2079422164537901113.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HN0JBaybAAA2Cp5.jpg": {
+      "status": "failed",
+      "referenced_by": [
+        "20260722071857_twitter_com_misakinae8964_status_2079828528691052664.json"
+      ],
+      "last_updated": "2026-08-29T17:45:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260722071857im_/https://pbs.twimg.com/media/HN0JBaybAAA2Cp5.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ffabf200a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
+    },
+    "https://pbs.twimg.com/media/HN0X4h-aMAAQTql.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HN0X4iBbsAAwKwO.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json"
+      ],
+      "last_updated": "2026-08-29T17:44:16"
+    },
+    "https://pbs.twimg.com/media/HN0X4ieaIAAwzfC.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json"
+      ],
+      "last_updated": "2026-08-29T17:44:16"
+    },
+    "https://pbs.twimg.com/media/HN0X4inbsAA3pjN.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json"
+      ],
+      "last_updated": "2026-08-29T17:44:17"
+    },
+    "https://pbs.twimg.com/media/HN6n-1Na4AAhe_a.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260723141948_twitter_com_misakinae8964_status_2080296827979755882.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "https://pbs.twimg.com/media/HOJgbQ1a8AAES8M.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260726111702_twitter_com_misakinae8964_status_2081337996952191018.json"
+      ],
+      "last_updated": "2026-08-29T17:44:15"
     }
   },
   "videos": {
@@ -3815,6 +4803,12 @@
         "20260715161950_twitter_com_misakinae8964_status_2077427931832594839.json"
       ],
       "last_updated": "2026-07-19T15:00:35"
+    },
+    "https://video.twimg.com/amplify_video/2079169746743046144/vid/avc1/1080x1920/VnZaOP1jkHbuYhWs.mp4": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260720115609_twitter_com_misakinae8964_status_2079173514595336599.json"
+      ]
     }
   },
   "avatars": {
@@ -4415,7 +5409,39 @@
         "20260717175359_twitter_com_misakinae8964_status_2078176402109800565.json",
         "20260717175414_twitter_com_misakinae8964_status_2078176463023673773.json",
         "20260717175448_twitter_com_misakinae8964_status_2078176605348999347.json",
-        "20260718040436_twitter_com_misakinae8964_status_2078330069903442323.json"
+        "20260718040436_twitter_com_misakinae8964_status_2078330069903442323.json",
+        "20260713153124_twitter_com_misakinae8964_status_2076690967059722434.json",
+        "20260713204419_twitter_com_misakinae8964_status_2076769716660785428.json",
+        "20260716071108_twitter_com_misakinae8964_status_2077652234754814196.json",
+        "20260716154205_twitter_com_misakinae8964_status_2077780821851971696.json",
+        "20260716154219_twitter_com_misakinae8964_status_2077780877535567881.json",
+        "20260717051053_twitter_com_misakinae8964_status_2077984363191644411.json",
+        "20260718013447_twitter_com_misakinae8964_status_2078292365790544089.json",
+        "20260718053539_twitter_com_misakinae8964_status_2078352983746826269.json",
+        "20260718081918_twitter_com_misakinae8964_status_2078394165633892749.json",
+        "20260718114742_twitter_com_misakinae8964_status_2078446609428623445.json",
+        "20260718114813_twitter_com_misakinae8964_status_2078446740278321489.json",
+        "20260719050557_twitter_com_misakinae8964_status_2078707894800044150.json",
+        "20260720060347_twitter_com_misakinae8964_status_2079084839807115458.json",
+        "20260720060602_twitter_com_misakinae8964_status_2079085403257340356.json",
+        "20260720083357_twitter_com_misakinae8964_status_2079122629446050162.json",
+        "20260720115609_twitter_com_misakinae8964_status_2079173514595336599.json",
+        "20260721042412_twitter_com_misakinae8964_status_2079422164537901113.json",
+        "20260722071857_twitter_com_misakinae8964_status_2079828528691052664.json",
+        "20260722094524_twitter_com_misakinae8964_status_2079865387127320581.json",
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json",
+        "20260722125201_twitter_com_misakinae8964_status_2079912348245274959.json",
+        "20260722131903_twitter_com_misakinae8964_status_2079919150617751602.json",
+        "20260722171831_twitter_com_misakinae8964_status_2079979416973918243.json",
+        "20260723085828_twitter_com_misakinae8964_status_2080215961223958920.json",
+        "20260723141948_twitter_com_misakinae8964_status_2080296827979755882.json",
+        "20260724055822_twitter_com_misakinae8964_status_2080533027336401368.json",
+        "20260725073950_twitter_com_misakinae8964_status_2080920947587252685.json",
+        "20260725102413_twitter_com_misakinae8964_status_2080962318796791909.json",
+        "20260726111702_twitter_com_misakinae8964_status_2081337996952191018.json",
+        "20260727060717_twitter_com_misakinae8964_status_2081622432247591041.json",
+        "20260727073921_twitter_com_misakinae8964_status_2081645603592024552.json",
+        "20260727150843_twitter_com_misakinae8964_status_2081758689166557692.json"
       ],
       "last_updated": "2026-07-12T09:04:26"
     },
@@ -4486,7 +5512,16 @@
         "20260713082716_twitter_com_misakinae8964_status_2076584229841043773.json",
         "20260714175728_twitter_com_misakinae8964_status_2077090115915280628.json",
         "20260716125045_twitter_com_misakinae8964_status_2077737704486572406.json",
-        "20260716163618_twitter_com_misakinae8964_status_2077794463720886611.json"
+        "20260716163618_twitter_com_misakinae8964_status_2077794463720886611.json",
+        "20260713153124_twitter_com_misakinae8964_status_2076690967059722434.json",
+        "20260716154219_twitter_com_misakinae8964_status_2077780877535567881.json",
+        "20260718013447_twitter_com_misakinae8964_status_2078292365790544089.json",
+        "20260720115609_twitter_com_misakinae8964_status_2079173514595336599.json",
+        "20260721042412_twitter_com_misakinae8964_status_2079422164537901113.json",
+        "20260723141948_twitter_com_misakinae8964_status_2080296827979755882.json",
+        "20260726111702_twitter_com_misakinae8964_status_2081337996952191018.json",
+        "20260727073921_twitter_com_misakinae8964_status_2081645603592024552.json",
+        "20260727150843_twitter_com_misakinae8964_status_2081758689166557692.json"
       ],
       "last_updated": "2026-07-12T09:04:26"
     },
@@ -4916,7 +5951,8 @@
         "20260702110432_twitter_com_misakinae8964_status_2072637542529475050.json",
         "20260706192940_twitter_com_misakinae8964_status_2074214212939948039.json",
         "20260708064730_twitter_com_misakinae8964_status_2074747183619043822.json",
-        "20260708211926_twitter_com_misakinae8964_status_2074966613057843522.json"
+        "20260708211926_twitter_com_misakinae8964_status_2074966613057843522.json",
+        "20260720060602_twitter_com_misakinae8964_status_2079085403257340356.json"
       ],
       "last_updated": "2026-07-12T09:04:27"
     },
@@ -5062,7 +6098,8 @@
     "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260615200446_twitter_com_misakinae8964_status_2066612901327319513.json"
+        "20260615200446_twitter_com_misakinae8964_status_2066612901327319513.json",
+        "20260719050557_twitter_com_misakinae8964_status_2078707894800044150.json"
       ],
       "last_updated": "2026-07-12T09:04:27"
     },
@@ -5254,7 +6291,8 @@
     "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260620212403_twitter_com_misakinae8964_status_2068444795417321787.json"
+        "20260620212403_twitter_com_misakinae8964_status_2068444795417321787.json",
+        "20260718053539_twitter_com_misakinae8964_status_2078352983746826269.json"
       ],
       "last_updated": "2026-07-12T09:04:28"
     },
@@ -5293,7 +6331,8 @@
         "20260715134737_twitter_com_misakinae8964_status_2077389625388376511.json",
         "20260715151816_twitter_com_misakinae8964_status_2077412439617089839.json",
         "20260715161950_twitter_com_misakinae8964_status_2077427931832594839.json",
-        "20260715162005_twitter_com_misakinae8964_status_2077427995346964752.json"
+        "20260715162005_twitter_com_misakinae8964_status_2077427995346964752.json",
+        "20260716071108_twitter_com_misakinae8964_status_2077652234754814196.json"
       ],
       "last_updated": "2026-07-12T09:04:28"
     },
@@ -5317,7 +6356,8 @@
       "status": "done",
       "referenced_by": [
         "20260624191415_twitter_com_misakinae8964_status_2069861679132028958.json",
-        "20260624193343_twitter_com_misakinae8964_status_2069866578397774079.json"
+        "20260624193343_twitter_com_misakinae8964_status_2069866578397774079.json",
+        "20260722131903_twitter_com_misakinae8964_status_2079919150617751602.json"
       ],
       "last_updated": "2026-07-12T09:04:28"
     },
@@ -5459,7 +6499,8 @@
     "https://pbs.twimg.com/profile_images/1998573357516861442/MjnaF3nC_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260630155641_twitter_com_misakinae8964_status_2071986289398911141.json"
+        "20260630155641_twitter_com_misakinae8964_status_2071986289398911141.json",
+        "20260718013447_twitter_com_misakinae8964_status_2078292365790544089.json"
       ],
       "last_updated": "2026-07-12T09:04:29"
     },
@@ -5532,7 +6573,8 @@
       "referenced_by": [
         "20260701115422_twitter_com_misakinae8964_status_2072287697495077373.json",
         "20260705152539_twitter_com_misakinae8964_status_2073790416873505217.json",
-        "20260705152939_twitter_com_misakinae8964_status_2073791424420876705.json"
+        "20260705152939_twitter_com_misakinae8964_status_2073791424420876705.json",
+        "20260725102413_twitter_com_misakinae8964_status_2080962318796791909.json"
       ],
       "last_updated": "2026-07-12T09:04:29"
     },
@@ -5627,7 +6669,8 @@
         "20260714101740_twitter_com_misakinae8964_status_2076974400910528559.json",
         "20260714153450_twitter_com_misakinae8964_status_2077054220508057695.json",
         "20260715131245_twitter_com_misakinae8964_status_2077380850019393938.json",
-        "20260715131310_twitter_com_misakinae8964_status_2077380957280391330.json"
+        "20260715131310_twitter_com_misakinae8964_status_2077380957280391330.json",
+        "20260722171831_twitter_com_misakinae8964_status_2079979416973918243.json"
       ],
       "last_updated": "2026-07-12T09:04:29"
     },
@@ -5889,7 +6932,8 @@
         "20260714141210_twitter_com_misakinae8964_status_2077033417473245530.json",
         "20260716163426_twitter_com_misakinae8964_status_2077793993946198225.json",
         "20260717145238_twitter_com_misakinae8964_status_2078130763401396596.json",
-        "20260717175448_twitter_com_misakinae8964_status_2078176605348999347.json"
+        "20260717175448_twitter_com_misakinae8964_status_2078176605348999347.json",
+        "20260717051053_twitter_com_misakinae8964_status_2077984363191644411.json"
       ],
       "last_updated": "2026-07-19T15:00:54"
     },
@@ -5947,6 +6991,44 @@
         "20260717175359_twitter_com_misakinae8964_status_2078176402109800565.json"
       ],
       "last_updated": "2026-07-19T15:00:54"
+    },
+    "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260718114742_twitter_com_misakinae8964_status_2078446609428623445.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2078010052154425344/8l9PlYF5_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260718114813_twitter_com_misakinae8964_status_2078446740278321489.json",
+        "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json",
+        "20260722125201_twitter_com_misakinae8964_status_2079912348245274959.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260720083357_twitter_com_misakinae8964_status_2079122629446050162.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260722094524_twitter_com_misakinae8964_status_2079865387127320581.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/1954923745811759104/mo05hKad_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260724055822_twitter_com_misakinae8964_status_2080533027336401368.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2062178134284480512/okaeSEXJ_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260725073950_twitter_com_misakinae8964_status_2080920947587252685.json"
+      ]
     }
   },
   "media": {
@@ -13371,6 +14453,412 @@
         ]
       },
       "last_updated": "2026-07-19T14:59:50"
+    },
+    "20260713153124_twitter_com_misakinae8964_status_2076690967059722434.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNHQuzsW4AAh9OW.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260713204419_twitter_com_misakinae8964_status_2076769716660785428.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260716071108_twitter_com_misakinae8964_status_2077652234754814196.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNU8cqZa4AAwt4b.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260716154205_twitter_com_misakinae8964_status_2077780821851971696.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260716154219_twitter_com_misakinae8964_status_2077780877535567881.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNW9M_WbQAEkHdl.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260717051053_twitter_com_misakinae8964_status_2077984363191644411.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260718013447_twitter_com_misakinae8964_status_2078292365790544089.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNdFQi-bAAEgjFo.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1998573357516861442/MjnaF3nC_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260718053539_twitter_com_misakinae8964_status_2078352983746826269.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260718081918_twitter_com_misakinae8964_status_2078394165633892749.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260718114742_twitter_com_misakinae8964_status_2078446609428623445.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260718114813_twitter_com_misakinae8964_status_2078446740278321489.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2078010052154425344/8l9PlYF5_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260719050557_twitter_com_misakinae8964_status_2078707894800044150.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260720060347_twitter_com_misakinae8964_status_2079084839807115458.json": {
+      "status": "failed",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNpkosgbEAAiHdt.jpg",
+          "https://pbs.twimg.com/media/HNpkosoaoAAhQ5I.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:40",
+      "miss_count": 1
+    },
+    "20260720060602_twitter_com_misakinae8964_status_2079085403257340356.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2034865262240178178/A0F7SCg4_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260720083357_twitter_com_misakinae8964_status_2079122629446050162.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062731870522200064/XHWoeTrD_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260720115609_twitter_com_misakinae8964_status_2079173514595336599.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [
+          "https://video.twimg.com/amplify_video/2079169746743046144/vid/avc1/1080x1920/VnZaOP1jkHbuYhWs.mp4"
+        ],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260721042412_twitter_com_misakinae8964_status_2079422164537901113.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HNlYZrcbAAA4M_P.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260722071857_twitter_com_misakinae8964_status_2079828528691052664.json": {
+      "status": "failed",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HN0JBaybAAA2Cp5.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:19",
+      "miss_count": 1
+    },
+    "20260722094524_twitter_com_misakinae8964_status_2079865387127320581.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260722094609_twitter_com_misakinae8964_status_2079865574373597586.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HN0X4h-aMAAQTql.jpg",
+          "https://pbs.twimg.com/media/HN0X4iBbsAAwKwO.jpg",
+          "https://pbs.twimg.com/media/HN0X4ieaIAAwzfC.jpg",
+          "https://pbs.twimg.com/media/HN0X4inbsAA3pjN.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2078010052154425344/8l9PlYF5_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:17"
+    },
+    "20260722125201_twitter_com_misakinae8964_status_2079912348245274959.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2078010052154425344/8l9PlYF5_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260722131903_twitter_com_misakinae8964_status_2079919150617751602.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260722171831_twitter_com_misakinae8964_status_2079979416973918243.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1656986784062922752/QMtPLjjk_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260723085828_twitter_com_misakinae8964_status_2080215961223958920.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260723141948_twitter_com_misakinae8964_status_2080296827979755882.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HN6n-1Na4AAhe_a.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260724055822_twitter_com_misakinae8964_status_2080533027336401368.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1954923745811759104/mo05hKad_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260725073950_twitter_com_misakinae8964_status_2080920947587252685.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2062178134284480512/okaeSEXJ_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260725102413_twitter_com_misakinae8964_status_2080962318796791909.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2067379534601900032/90Nh4cNr_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260726111702_twitter_com_misakinae8964_status_2081337996952191018.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HOJgbQ1a8AAES8M.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260727060717_twitter_com_misakinae8964_status_2081622432247591041.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260727073921_twitter_com_misakinae8964_status_2081645603592024552.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
+    },
+    "20260727150843_twitter_com_misakinae8964_status_2081758689166557692.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-29T17:44:15"
     }
   }
 }

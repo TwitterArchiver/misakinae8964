@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080215961223958920",
+    "created_at": "2026-07-24T05:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080533027336401368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944709834227503104",
+          "start": 0,
+          "username": "Aisaka__miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080533027336401368",
+    "in_reply_to_user_id": "1944709834227503104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080339458256146716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aisaka__miku 这样吗，因为这事是我女朋友告诉我的，她也反对骂她，觉得没问题啊，我就先以为是男的在骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T05:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080533027336401368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944709834227503104",
+              "start": 0,
+              "username": "Aisaka__miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080533027336401368",
+        "in_reply_to_user_id": "1944709834227503104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080339458256146716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aisaka__miku 这样吗，因为这事是我女朋友告诉我的，她也反对骂她，觉得没问题啊，我就先以为是男的在骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944709834227503104",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-23T17:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080339458256146716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080339458256146716",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1781,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215961223958920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 基本上都是女生在骂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 325,
+          "like_count": 3361,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T10:45:45.000Z",
+        "description": "...",
+        "id": "1944709834227503104",
+        "name": "Aisaka miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954923745811759104/mo05hKad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 48,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Aisaka__miku",
+        "verified": false
+      }
+    ]
+  }
+}
