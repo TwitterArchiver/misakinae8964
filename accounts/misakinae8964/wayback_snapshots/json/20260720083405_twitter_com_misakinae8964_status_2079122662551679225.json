@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2079084839807115458",
+    "created_at": "2026-07-20T08:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079122662551679225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079122662551679225",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079099165779411307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 好耶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079099165779411307].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079099165779411307",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079099165779411307"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2079084839807115458",
+        "created_at": "2026-07-20T08:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079122662551679225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079122662551679225",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079099165779411307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 305,
+          "like_count": 3180,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "天使墜地窒息死亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 299,
+          "like_count": 18665,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 5352
+        },
+        "url": "",
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

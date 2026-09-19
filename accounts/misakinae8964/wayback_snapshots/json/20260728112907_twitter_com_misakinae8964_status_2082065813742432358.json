@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2082064707926802433",
+    "created_at": "2026-07-28T11:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082065813742432358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044319134326964224",
+          "start": 0,
+          "username": "RETURN8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082065813742432358",
+    "in_reply_to_user_id": "2044319134326964224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082064707926802433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RETURN8964 真的，一切都完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2082064707926802433",
+        "created_at": "2026-07-28T11:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082065813742432358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044319134326964224",
+              "start": 0,
+              "username": "RETURN8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082065813742432358",
+        "in_reply_to_user_id": "2044319134326964224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082064707926802433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RETURN8964 真的，一切都完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044319134326964224",
+        "conversation_id": "2082064707926802433",
+        "created_at": "2026-07-28T11:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082064707926802433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakinae8964/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/misakinae8964/status/2082032543055204676",
+              "start": 5,
+              "url": "https://t.co/oiGFXscLve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064707926802433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082032543055204676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的假的 https://t.co/oiGFXscLve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 332,
+          "like_count": 3520,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T07:37:25.000Z",
+        "description": "18y.o.  翎本人\nApex CS kovaak一般路过爱好者\n非现充 \n头像 @washiya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "washiya0"
+              }
+            ]
+          }
+        },
+        "id": "2044319134326964224",
+        "name": "EternalSubconsciencƎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076052589754425344/MgnGKGEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 433,
+          "like_count": 21598,
+          "listed_count": 5,
+          "media_count": 487,
+          "tweet_count": 3757
+        },
+        "url": "",
+        "username": "RETURN8964",
+        "verified": false
+      }
+    ]
+  }
+}

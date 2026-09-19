@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080109274886553600"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080109285984628799",
+    "created_at": "2026-07-23T01:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080109285984628799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BciXM7DC8f",
+          "end": 38,
+          "expanded_url": "https://x.com/misakinae8964/status/2080109285984628799/photo/1",
+          "media_key": "3_2080109274886553600",
+          "start": 15,
+          "url": "https://t.co/BciXM7DC8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080109285984628799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快称呼我为，煎土豆饼领域大师 https://t.co/BciXM7DC8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080109274886553600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4IXVebwAAzH9x.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080109274886553600"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080109285984628799",
+        "created_at": "2026-07-23T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080109285984628799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BciXM7DC8f",
+              "end": 38,
+              "expanded_url": "https://x.com/misakinae8964/status/2080109285984628799/photo/1",
+              "media_key": "3_2080109274886553600",
+              "start": 15,
+              "url": "https://t.co/BciXM7DC8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080109285984628799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快称呼我为，煎土豆饼领域大师 https://t.co/BciXM7DC8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 317,
+          "like_count": 3306,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 659
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}

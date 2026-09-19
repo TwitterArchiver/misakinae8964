@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081048019563352064"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081048026706235635",
+    "created_at": "2026-07-25T16:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081048026706235635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ILAU4GlUp1",
+          "end": 37,
+          "expanded_url": "https://x.com/misakinae8964/status/2081048026706235635/photo/1",
+          "media_key": "3_2081048019563352064",
+          "start": 14,
+          "url": "https://t.co/ILAU4GlUp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081048026706235635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我两盒骚普瑞人生就有意义 https://t.co/ILAU4GlUp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2081048019563352064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFeJd6akAAk8PG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081048019563352064"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081048026706235635",
+        "created_at": "2026-07-25T16:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081048026706235635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILAU4GlUp1",
+              "end": 37,
+              "expanded_url": "https://x.com/misakinae8964/status/2081048026706235635/photo/1",
+              "media_key": "3_2081048019563352064",
+              "start": 14,
+              "url": "https://t.co/ILAU4GlUp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081048026706235635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我两盒骚普瑞人生就有意义 https://t.co/ILAU4GlUp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 334,
+          "like_count": 3450,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}

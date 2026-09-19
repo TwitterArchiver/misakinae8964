@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080750366807969792"
+      ],
+      "media_source_tweet_id": [
+        "2080750377167937546"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080764817997263187",
+    "created_at": "2026-07-24T21:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T22:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080764817997263187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973373506609094666",
+          "start": 3,
+          "username": "aixgyn8448168"
+        },
+        {
+          "end": 30,
+          "id": "2165736150",
+          "start": 19,
+          "username": "tiancai312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggoqTkJ9Hs",
+          "end": 59,
+          "expanded_url": "https://x.com/aixgyn8448168/status/2080750377167937546/photo/1",
+          "media_key": "3_2080750366807969792",
+          "start": 36,
+          "url": "https://t.co/ggoqTkJ9Hs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080764817997263187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080750377167937546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aixgyn8448168: @tiancai312 车震之后 https://t.co/ggoqTkJ9Hs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080750366807969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBPby_aUAA1ReY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080750366807969792"
+          ]
+        },
+        "author_id": "1973373506609094666",
+        "conversation_id": "2080646055801262417",
+        "created_at": "2026-07-24T20:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T21:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080750377167937546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2165736150",
+              "start": 0,
+              "username": "tiancai312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggoqTkJ9Hs",
+              "end": 40,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2080750377167937546/photo/1",
+              "media_key": "3_2080750366807969792",
+              "start": 17,
+              "url": "https://t.co/ggoqTkJ9Hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080750377167937546",
+        "in_reply_to_user_id": "2165736150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080646055801262417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiancai312 车震之后 https://t.co/ggoqTkJ9Hs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080750366807969792"
+          ],
+          "media_source_tweet_id": [
+            "2080750377167937546"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080764817997263187",
+        "created_at": "2026-07-24T21:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080764817997263187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973373506609094666",
+              "start": 3,
+              "username": "aixgyn8448168"
+            },
+            {
+              "end": 30,
+              "id": "2165736150",
+              "start": 19,
+              "username": "tiancai312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggoqTkJ9Hs",
+              "end": 59,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2080750377167937546/photo/1",
+              "media_key": "3_2080750366807969792",
+              "start": 36,
+              "url": "https://t.co/ggoqTkJ9Hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080764817997263187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080750377167937546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aixgyn8448168: @tiancai312 车震之后 https://t.co/ggoqTkJ9Hs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 330,
+          "like_count": 3390,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:05:40.000Z",
+        "description": "🚪188/288",
+        "id": "1973373506609094666",
+        "location": "只回🚪",
+        "name": "深深",
+        "pinned_tweet_id": "2019421895217803501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020475886295015424/BIL3BED1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 135,
+          "like_count": 1578,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "aixgyn8448168",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-31T00:49:14.000Z",
+        "description": "交友投稿/每日大赛/话题投稿/树洞吐槽/情感话题/碎碎念分享/认证女推/所有投稿将筛选后发出 私信没回代表被吞找小号@xiaot31 ✈️粉丝群：https://t.co/gDJpSVX9r7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "xiaot31"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/tiancai31",
+                "end": 96,
+                "expanded_url": "https://telegram.me/tiancai31",
+                "start": 73,
+                "url": "https://t.co/gDJpSVX9r7"
+              }
+            ]
+          }
+        },
+        "id": "2165736150",
+        "location": "相逢已是上上签",
+        "name": "社恐的元大鹰",
+        "pinned_tweet_id": "2068738786906042383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013164874285658112/12AHYrdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164974,
+          "following_count": 269,
+          "like_count": 18040,
+          "listed_count": 168,
+          "media_count": 608,
+          "tweet_count": 3416
+        },
+        "url": "",
+        "username": "tiancai312",
+        "verified": true
+      }
+    ]
+  }
+}

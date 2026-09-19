@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078501861452316672"
+      ],
+      "media_source_tweet_id": [
+        "2078501871019565176"
+      ]
+    },
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080421014866137119",
+    "created_at": "2026-07-23T22:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T23:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080421014866137119"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "哈尔滨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973373506609094666",
+          "start": 3,
+          "username": "aixgyn8448168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NK76ICItkp",
+          "end": 54,
+          "expanded_url": "https://x.com/aixgyn8448168/status/2078501871019565176/photo/1",
+          "media_key": "3_2078501861452316672",
+          "start": 31,
+          "url": "https://t.co/NK76ICItkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080421014866137119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078501871019565176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aixgyn8448168: 你的专属玩具 #哈尔滨 https://t.co/NK76ICItkp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078501861452316672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhSbjzagAA7fbr.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078501861452316672"
+          ]
+        },
+        "author_id": "1973373506609094666",
+        "conversation_id": "2078501871019565176",
+        "created_at": "2026-07-18T15:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078501871019565176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "哈尔滨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NK76ICItkp",
+              "end": 35,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2078501871019565176/photo/1",
+              "media_key": "3_2078501861452316672",
+              "start": 12,
+              "url": "https://t.co/NK76ICItkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078501871019565176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1342,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的专属玩具 #哈尔滨 https://t.co/NK76ICItkp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078501861452316672"
+          ],
+          "media_source_tweet_id": [
+            "2078501871019565176"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080421014866137119",
+        "created_at": "2026-07-23T22:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080421014866137119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "哈尔滨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973373506609094666",
+              "start": 3,
+              "username": "aixgyn8448168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NK76ICItkp",
+              "end": 54,
+              "expanded_url": "https://x.com/aixgyn8448168/status/2078501871019565176/photo/1",
+              "media_key": "3_2078501861452316672",
+              "start": 31,
+              "url": "https://t.co/NK76ICItkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080421014866137119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078501871019565176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aixgyn8448168: 你的专属玩具 #哈尔滨 https://t.co/NK76ICItkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 323,
+          "like_count": 3353,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T13:05:40.000Z",
+        "description": "🚪188/288",
+        "id": "1973373506609094666",
+        "location": "只回🚪",
+        "name": "深深",
+        "pinned_tweet_id": "2019421895217803501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020475886295015424/BIL3BED1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 135,
+          "like_count": 1569,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "aixgyn8448168",
+        "verified": true
+      }
+    ]
+  }
+}

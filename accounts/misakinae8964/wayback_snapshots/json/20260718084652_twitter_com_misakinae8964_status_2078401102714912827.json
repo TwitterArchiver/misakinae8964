@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2078383317582299615",
+    "created_at": "2026-07-18T08:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078401102714912827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078401102714912827",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078383317582299615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 上帝赞美这些人们"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2078383308753473536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfmm4laEAAnLfy.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2078383317582299615",
+        "created_at": "2026-07-18T08:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078401102714912827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078401102714912827",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078383317582299615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 上帝赞美这些人们"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078383308753473536"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2078383317582299615",
+        "created_at": "2026-07-18T07:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078383317582299615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "堂吉诃德还没输。",
+              "display_url": "m.mp.oeeee.com/a/BAAFRD000020…",
+              "end": 155,
+              "expanded_url": "https://m.mp.oeeee.com/a/BAAFRD0000202607171628294.html",
+              "images": [
+                {
+                  "height": 213,
+                  "url": "https://pbs.twimg.com/news_img/2078383384653352961/Hcfr3a-H?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078383384653352961/Hcfr3a-H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "无法停止的救援：他们跟戒网瘾机构“抢人”",
+              "unwound_url": "https://m.mp.oeeee.com/a/BAAFRD0000202607171628294.html",
+              "url": "https://t.co/WRHaqYB2ar"
+            },
+            {
+              "display_url": "pic.x.com/3dhRyhX30V",
+              "end": 179,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2078383317582299615/photo/1",
+              "media_key": "3_2078383308753473536",
+              "start": 156,
+              "url": "https://t.co/3dhRyhX30V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078383317582299615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 354,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "扭转机构的非法乱象与志愿者的对抗，创伤与死亡。绝望或冲锋？志愿者的运行架构与救人方式。\n \n一群小人物，如何与时代的产物对抗，又付出了哪些代价\n \n本次受邀以“张立”的身份参与南方都市报的采访\n希望这篇文章能帮助更多人了解我们以及我们正在做的事情\n下附新闻链接:\nhttps://t.co/WRHaqYB2ar https://t.co/3dhRyhX30V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 298,
+          "like_count": 3123,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6436,
+          "following_count": 3340,
+          "like_count": 3932,
+          "listed_count": 20,
+          "media_count": 505,
+          "tweet_count": 3507
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

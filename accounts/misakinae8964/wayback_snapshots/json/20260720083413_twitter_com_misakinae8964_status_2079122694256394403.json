@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2079084839807115458",
+    "created_at": "2026-07-20T08:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079122694256394403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079122694256394403",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079085380587192536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2079084839807115458",
+        "created_at": "2026-07-20T08:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079122694256394403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079122694256394403",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079085380587192536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2079084839807115458",
+        "created_at": "2026-07-20T06:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079085380587192536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079085380587192536",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079084839807115458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 都萌 更喜欢金毛🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 305,
+          "like_count": 3180,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 317,
+          "like_count": 3706,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

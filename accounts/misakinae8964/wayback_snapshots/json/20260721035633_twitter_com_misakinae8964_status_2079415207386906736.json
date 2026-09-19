@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2079415207386906736",
+    "created_at": "2026-07-21T03:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079415207386906736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079415207386906736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我带个平板来本来是想练习一波美术的但是跟着这傻子37搞了三天完全没有心思画画 呵呵 浪费了好多灵感我本来以为看到那么多幻觉之后我要开窍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2079415207386906736",
+        "created_at": "2026-07-21T03:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079415207386906736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079415207386906736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我带个平板来本来是想练习一波美术的但是跟着这傻子37搞了三天完全没有心思画画 呵呵 浪费了好多灵感我本来以为看到那么多幻觉之后我要开窍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 308,
+          "like_count": 3195,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}

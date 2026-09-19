@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080215961223958920",
+    "created_at": "2026-07-24T05:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080530823900770809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058185127260504064",
+          "start": 0,
+          "username": "selevenv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080530823900770809",
+    "in_reply_to_user_id": "2058185127260504064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080359923888865674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@selevenv 为什么不能当官c啊，人家是身高体重颜值皮肤那个不达标了吗，就因为她以前的身份不好就不配了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T05:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080530823900770809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058185127260504064",
+              "start": 0,
+              "username": "selevenv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080530823900770809",
+        "in_reply_to_user_id": "2058185127260504064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080359923888865674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@selevenv 为什么不能当官c啊，人家是身高体重颜值皮肤那个不达标了吗，就因为她以前的身份不好就不配了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058185127260504064",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-23T18:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080359923888865674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080359923888865674",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2868,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215961223958920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 知道福利姬是什么吗？一个靠卖私密照片获利的主播有什么资格当官c啊好笑了 她那是cos吗 明明是拿角色当皮套来了 二次元软色情也就是这么发展起来的 笑死了全是腿毛来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 325,
+          "like_count": 3352,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T13:57:14.000Z",
+        "description": "",
+        "id": "2058185127260504064",
+        "name": "seleven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058185844083871745/DMGgyk4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "selevenv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080215961223958920",
+    "created_at": "2026-07-24T05:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080532430981828728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2024511240312426496",
+          "start": 0,
+          "username": "qi1786902247457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080532430981828728",
+    "in_reply_to_user_id": "2024511240312426496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080511196256768023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi1786902247457 对啊我女朋友就是园丁厨啊，然后他就告诉我说这群家伙有病吧为了这点小事去网暴这个人，他的身份真的影响他的实力了吗，她条件达标的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T05:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080532430981828728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2024511240312426496",
+              "start": 0,
+              "username": "qi1786902247457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080532430981828728",
+        "in_reply_to_user_id": "2024511240312426496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080511196256768023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi1786902247457 对啊我女朋友就是园丁厨啊，然后他就告诉我说这群家伙有病吧为了这点小事去网暴这个人，他的身份真的影响他的实力了吗，她条件达标的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024511240312426496",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T04:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080511196256768023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080511196256768023",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215961223958920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 脑子有泡吧你 很多喜欢这个角色的人都是女孩子啊 谁勾八会喜欢一个卖的人来cos自己喜欢的女孩啊😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 325,
+          "like_count": 3360,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T15:48:01.000Z",
+        "description": "love@natsume sakasaki",
+        "id": "2024511240312426496",
+        "name": "kikinozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080300581596598273/foIWjtLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "qi1786902247457",
+        "verified": false
+      }
+    ]
+  }
+}

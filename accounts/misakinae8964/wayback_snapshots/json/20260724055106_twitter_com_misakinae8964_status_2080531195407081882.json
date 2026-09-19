@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080215961223958920",
+    "created_at": "2026-07-24T05:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080531195407081882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1220954048020402176",
+          "start": 0,
+          "username": "chenyu552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080531195407081882",
+    "in_reply_to_user_id": "1220954048020402176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080449680484536425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenyu552 诶，这你就错了，黄赌毒里面我只讨厌一个赌字，我和黄毒亲密无间捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T05:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080531195407081882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1220954048020402176",
+              "start": 0,
+              "username": "chenyu552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080531195407081882",
+        "in_reply_to_user_id": "1220954048020402176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080449680484536425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyu552 诶，这你就错了，黄赌毒里面我只讨厌一个赌字，我和黄毒亲密无间捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220954048020402176",
+        "conversation_id": "2080215961223958920",
+        "created_at": "2026-07-24T00:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080449680484536425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080449680484536425",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1086,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215961223958920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 神了，口号喊的响，黄赌毒，真骂到黄了又开始给黄维护了😅，知道为啥黄赌毒黄在第一位吗😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 325,
+          "like_count": 3355,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-25T06:18:33.000Z",
+        "description": "",
+        "id": "1220954048020402176",
+        "name": "luoyan762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451179717504245764/a2A2w1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1289,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "chenyu552",
+        "verified": false
+      }
+    ]
+  }
+}

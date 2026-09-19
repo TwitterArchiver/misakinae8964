@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2081758658585854134",
+    "created_at": "2026-07-28T10:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082055520341672084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1568086718091501569",
+          "start": 0,
+          "username": "CPCHD8010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082055520341672084",
+    "in_reply_to_user_id": "1568086718091501569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082041047803412611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPCHD8010 好看吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2081758658585854134",
+        "created_at": "2026-07-28T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082055520341672084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1568086718091501569",
+              "start": 0,
+              "username": "CPCHD8010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055520341672084",
+        "in_reply_to_user_id": "1568086718091501569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082041047803412611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPCHD8010 好看吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568086718091501569",
+        "conversation_id": "2081758658585854134",
+        "created_at": "2026-07-28T09:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082041047803412611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082041047803412611",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081758658585854134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 哦，牛逼！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 332,
+          "like_count": 3514,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T04:00:01.000Z",
+        "description": "-一位吉他手，一滩酒鬼，一个病人，一只家养艺术家。\n-科学游戏，电脑儿童。\n-脑袋空空的寂静，寂静是无声秋夜里的一场梦。\n-爱失能，性犯罪。割断神经，播放摇滚乐。这个夏天，我病了。\n-关爱病人。再见，猫。",
+        "id": "1568086718091501569",
+        "location": "电脑儿童康复中心",
+        "name": "超級市民_虛世明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026702984898555907/0Og4CH-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 561,
+          "like_count": 4356,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 1107
+        },
+        "url": "",
+        "username": "CPCHD8010",
+        "verified": false
+      }
+    ]
+  }
+}

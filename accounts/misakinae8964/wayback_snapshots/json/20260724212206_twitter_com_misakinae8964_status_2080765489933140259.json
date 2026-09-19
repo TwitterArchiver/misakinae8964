@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061323838349340672",
+    "conversation_id": "2080562939481006259",
+    "created_at": "2026-07-24T21:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T22:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080765489933140259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701997020469399552",
+          "start": 0,
+          "username": "gongzisama1"
+        },
+        {
+          "end": 26,
+          "id": "1989627406391635968",
+          "start": 13,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080765489933140259",
+    "in_reply_to_user_id": "1701997020469399552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080597228377477407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongzisama1 @drug_artist2 就你被判的最重了，心疼，也不知道你到底做错了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2080562939481006259",
+        "created_at": "2026-07-24T21:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T22:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080765489933140259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701997020469399552",
+              "start": 0,
+              "username": "gongzisama1"
+            },
+            {
+              "end": 26,
+              "id": "1989627406391635968",
+              "start": 13,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080765489933140259",
+        "in_reply_to_user_id": "1701997020469399552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080597228377477407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongzisama1 @drug_artist2 就你被判的最重了，心疼，也不知道你到底做错了什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701997020469399552",
+        "conversation_id": "2080562939481006259",
+        "created_at": "2026-07-24T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080597228377477407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080597228377477407",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080562939481006259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 我建议陪着我打二审🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 331,
+          "like_count": 3394,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 698
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T16:31:38.000Z",
+        "description": "账号回来了 主号@xx1012000456\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/lzROBqdeKL 大概几天统一回复一次\n策划药官方：@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "xx1012000456"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 80,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 57,
+                "url": "https://t.co/lzROBqdeKL"
+              }
+            ]
+          }
+        },
+        "id": "1701997020469399552",
+        "location": "北京",
+        "name": "x-square 「公子」一世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077781062726651904/aWfzE-lw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 167,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "gongzisama1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 37,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}
